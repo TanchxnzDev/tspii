@@ -28,5 +28,9 @@ export const models = {
   writer: "anthropic/claude-3-5-sonnet-latest",
 };
 
+// --- Embedder ---
+export const embedder = "googleai/gemini-embedding-001";
+
 // --- Register Flows ---
 // Flows will be imported explicitly where needed to avoid circular dependencies
+
