@@ -1,0 +1,4598 @@
+[
+  {
+    "id": "H-001",
+    "phytoCode": "TSPI-CURCUMA-01",
+    "name": "Curcuma Capsules",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_16",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_21",
+      "AXIS_25",
+      "AXIS_27"
+    ],
+    "description": "Turmeric exerts its effects through multiple biological mechanisms, including inhibition of the NF-κB signaling pathway, a key regulator of inflammation in the body; reduction of the production of pro-inflammatory cytokines such as IL-6, TNF-α, and IL-1β; and inhibition of COX-2 and lipoxygenase enzymes involved in gastrointestinal inflammation. Turmeric enhances bile secretion from the liver and gallbladder, resulting in more efficient fat digestion and reducing irritation of the gastrointestinal mucosa. Furthermore, it plays a significant role in balancing the gut microbiome by reducing the growth of pathogens and increasing the diversity of beneficial microorganisms.",
+    "dosage": "Take 2-4 capsules (500 mg) 3-4 times daily. It is recommended to take them before meals or on an empty stomach, as the herbs are absorbed better when food is absent, leading to higher blood levels of active ingredients and increased efficacy. The herbs in this formula do not irritate the stomach.",
+    "safety": "",
+    "ic50_data": "",
+    "category": "Digestive system Liver detoxification Anti-inflammatory therapy Microbiome balance Metabolic health",
+    "tags": [
+      "Anti-inflammatory regulation Hepatobiliary detoxification Digestive system restoration"
+    ]
+  },
+  {
+    "id": "H-003",
+    "phytoCode": "TSPI-ABSORN-03",
+    "name": "ABSORN CAPSULE",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_25",
+      "AXIS_27",
+      "AXIS_29",
+      "AXIS_33",
+      "AXIS_34",
+      "AXIS_36"
+    ],
+    "description": "ABSORN works through several key mechanisms: 1. Balancing the HPO axis (hypothalamus, pituitary ovary), which regulates female hormones; 2. Increasing pelvic blood flow, enhancing nitric oxide signaling, and improving uterine perfusion; 3. Reducing prostaglandins, a major cause of dysmenorrhea and uterine inflammation; 4. Reducing inflammatory cytokines such as IL-6, TNF-α, and IL-1β; and 5. Antitumor activity: the polyphenols and flavonoids in the formulation induce apoptosis, inhibit proliferation, and suppress inflammatory tumor microenvironments.",
+    "dosage": "Take 2-4 capsules (500 mg) 3-4 times daily before meals or on an empty stomach to enhance absorption of the active ingredients.",
+    "safety": "",
+    "ic50_data": "The inhibitory activity of ABSORN MCF-7 extract on breast cancer cells was 251.8 ± 6.489 µg/mL (fraction results: 1000 µg/mL, 569.74 ± 6.36 µg/mL, 527 µg/mL); HeLa extract on cervical cancer cells was 151.05 ± 8.71 µg/mL (fraction: 180.8 ± 14.52 µg/mL); and Vero extract on normal cells was 500 µg/mL, indicating selective cytotoxicity against cancer cells.",
+    "category": "Women reproductive health Hormonal balance Pelvic circulation Anti-inflammatory therapy Oncology microenvironment modulation",
+    "tags": [
+      "Hormonal regulation Pelvic microcirculation enhancement Anti-inflammatory modulation Oncology microenvironment modulation"
+    ]
+  },
+  {
+    "id": "H-004",
+    "phytoCode": "TSPI-DERRIS-SCANDENS-04",
+    "name": "COMPOUND DERRIS SCANDENS CAPSULE",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_25",
+      "AXIS_30",
+      "AXIS_31",
+      "AXIS_33",
+      "AXIS_27",
+      "AXIS_36"
+    ],
+    "description": "The herbal formula containing Tinospora cordifolia acts through several important mechanisms: Anti-inflammatory mechanisms, inhibiting the NF-κB pathway, COX-2 expression, and prostaglandin synthesis, thus reducing inflammation of joints and tissues; Microcirculation improvement, increasing blood flow to the joints and increasing oxygen supply; Cartilage protection, helping to reduce cartilage degeneration; and stimulating collagen synthesis.",
+    "dosage": "Take 2-4 capsules (500 mg) 3-4 times daily before meals or on an empty stomach to enhance absorption of the active ingredients.",
+    "safety": "",
+    "ic50_data": "Based on the experimental data in the table, the extracts related to the *Tinospora crispa* formula have IC50 values ​​against some cancer cells, such as A549 (lung cancer) IC50 ≈ 76.24 ± 11.11 µg/mL, PC-3 (prostate cancer) IC50 ≈ 60.36 ± 8.46 µg/mL, SW480 (colon cancer) IC50 ≈ 341.98 ± 6.11 µg/mL, and normal cells (Vero) IC50 500 µg/mL, indicating selective cytotoxicity against cancer cells.",
+    "category": "Joint and musculoskeletal system Anti-inflammatory therapy Pain management Connective tissue repair",
+    "tags": [
+      "Anti-inflammatory regulation Cartilage protection Microcirculation enhancement"
+    ]
+  },
+  {
+    "id": "H-005",
+    "phytoCode": "TSPI-DERRIS-VELVET-05",
+    "name": "COMPOUND DERRIS VELVET CAPSULE",
+    "axes": [
+      "AXIS_2",
+      "AXIS_7",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_25",
+      "AXIS_27",
+      "AXIS_30",
+      "AXIS_33",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "Deer antler velvet formula works through several important systems: 1. Growth factor signaling: Deer antler velvet contains IGF-1, IGF-2, EGF, and FGF, which stimulate cell proliferation, activate stem cells, and accelerate tissue regeneration. 2. Mitochondrial function: Ginseng and Astragalus increase ATP production and mitochondrial respiration. 3. Immune modulation: Stimulates NK cell and T-cell response.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "Experimental data show no cytotoxicity to normal cells at low levels, thus having a good safety profile.",
+    "ic50_data": "DPPH assay results showed that deer antler velvet extract exhibits moderate to high antioxidant activity, which helps reduce oxidative stress cell damage.",
+    "category": "Longevity medicine Immune system Energy metabolism Musculoskeletal regeneration",
+    "tags": [
+      "Regenerative signaling Energy metabolism restoration Immune modulation"
+    ]
+  },
+  {
+    "id": "H-006",
+    "phytoCode": "TSPI-BUTEA-06",
+    "name": "BUTEA SUPERBA CAPSULE",
+    "axes": [
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_27",
+      "AXIS_30",
+      "AXIS_33",
+      "AXIS_35",
+      "AXIS_9"
+    ],
+    "description": "The key mechanisms of action of Butea superba include nitric oxide activation, increasing the activity of endothelial nitric oxide synthase (eNOS), leading to vasodilation and increased blood flow; hormonal modulation, as the herb exhibits androgen-like activity, increasing testosterone activity and libido; and endothelial protection, reducing oxidative stress and endothelial dysfunction.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "Highly safe when used in medical dosage.",
+    "ic50_data": "",
+    "category": "Sexual health Circulation Hormonal balance",
+    "tags": [
+      "Microcirculation enhancement Hormonal modulation Endothelial protection"
+    ]
+  },
+  {
+    "id": "H-007",
+    "phytoCode": "TSPI-BENCHAKUL-07",
+    "name": "BENCHAKUL CAPSULE",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_16",
+      "AXIS_27",
+      "AXIS_28",
+      "AXIS_24",
+      "AXIS_21",
+      "AXIS_9",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "The Benjakul formula works through several important mechanisms: 1. Digestive activation: Stimulating the secretion of gastric juice, pancreatic enzymes, and bile secretion, improving digestion and nutrient absorption. 2. Bioavailability enhancement: Piperine increases the absorption of important substances from food and herbs, and enhances intestinal permeability for bioactive compounds. 3. Metabolic activation: The herbs in the formula can stimulate the AMPK signaling pathway, a key regulator of glucose metabolism and fatty acid oxidation. 4. Anti-diabetic mechanism: The bioactive compounds in the formula increase insulin sensitivity, decrease insulin resistance, and increase glucose uptake in muscles.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "The five-ingredient herbal formula has been used in traditional Thai medicine for a long time and is considered very safe.",
+    "ic50_data": "",
+    "category": "Digestive system Metabolic health Diabetes management Microbiome balance",
+    "tags": [
+      "Digestive stimulation Microbiome modulation Metabolic activation Insulin sensitivity improvement"
+    ]
+  },
+  {
+    "id": "H-008",
+    "phytoCode": "TSPI-YAVETCHAKORN-06",
+    "name": "YAVETCHAKORN NO.6 CAPSULE",
+    "axes": [
+      "AXIS_9",
+      "AXIS_17",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_33",
+      "AXIS_34",
+      "AXIS_35",
+      "AXIS_2",
+      "AXIS_27",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "This formula works through several mechanisms simultaneously, as follows: 5.1 Neurotransmitter support: The aromatic herbs and essential oils in the formula tend to help balance serotonergic tone, GABA-related calming pathways, cholinergic balance, and stress-response signaling, thus reducing tension, relaxing the brain, and promoting sleep. 5.2 Neurovascular regulation: The formula helps increase blood flow to the brain, improving oxygen supply to the brain, reducing dizziness, headaches, and vertigo caused by poor circulation, and supporting cognitive clarity. 5.3 Anti-stress/neuroendocrine modulation: It tends to help balance the brain–adrenal–sleep axis, reducing the effects of stress overload on the body. 5.4 Digestive-brain axis: The herbs in the formula also help relieve flatulence and bloating, which reduces the burden on gut-brain stress signaling and indirectly improves sleep. 5.5 Neuroprotection: Experiments on SH-SY5Y neurons showed that the Vatchakron group did not cause cell toxicity at the tested concentrations and tended to increase cell viability compared to the untreated control.",
+    "dosage": "As per your previously prescribed regimen, take 2–4 capsules (500 mg/capsule) 3–4 times daily, before meals or on an empty stomach. This is mechanically to improve the absorption of the active ingredient and its volatile fraction during periods without food interference, and to help achieve more efficient levels of the active ingredient in the bloodstream.",
+    "safety": "Based on current data, H-008 has a good safety profile as a traditional-use formula neuro-support formula and a non-cytotoxic formula. In particular, the SH-SY5Y data confirms that it did not cause neurotoxicity during the trials.",
+    "ic50_data": "The experimental results, clearly extracted from the SH-SY5Y cell viability assay research file, involved testing Vatcha kron in combination with other products in human SH-SY5Y neurons for 48 hours.",
+    "category": "Based on the product information, it should be categorized under: Brain and nervous system, Sleep/stress regulation, Heart and blood vessel support, Digestive support, Neuroendocrine balance.",
+    "tags": [
+      "The three pillars of H-008 are: Pillar 1: Neuro-regulation",
+      "balancing the brain and nervous system; Pillar 2: Sleep restoration",
+      "promoting relaxation",
+      "easier sleep",
+      "and deeper sleep; and Pillar 3: Neurovascular circulation",
+      "increasing blood flow to the brain and vital organs."
+    ]
+  },
+  {
+    "id": "H-009",
+    "phytoCode": "TSPI-HORENYIN-09",
+    "name": "HO REN YIN MIXTURE",
+    "axes": [
+      "AXIS_2",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_27",
+      "AXIS_29",
+      "AXIS_33",
+      "AXIS_35"
+    ],
+    "description": "The HO REN YIN formula works through four key mechanisms: 1. Hematopoietic support, stimulating bone marrow activity and blood cell production; 2. Hormonal regulation, helping to balance the endocrine system, especially sex hormones; 3. Microcirculation enhancement, increasing blood flow to the brain, heart, and reproductive organs; and 4. Immune modulation, helping to balance the immune system.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "The formula is considered highly safe for use in traditional medicine.",
+    "ic50_data": "",
+    "category": "Heart and blood vessel Hormonal balance Immune system Reproductive health",
+    "tags": [
+      "Blood nourishment Hormonal regulation Circulation improvement"
+    ]
+  },
+  {
+    "id": "H-010",
+    "phytoCode": "TSPI-MOMORDICA-010",
+    "name": "MOMORDICA CHARANTIA CAPSULE",
+    "axes": [
+      "AXIS_24",
+      "AXIS_27",
+      "AXIS_28",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_9",
+      "AXIS_21"
+    ],
+    "description": "Bitter melon extract works through several important mechanisms: 1. Glucose metabolism regulation: The active compounds in bitter melon stimulate the AMPK pathway, a key regulator of glucose uptake and fatty acid oxidation. 2. Insulin sensitivity improvement: Charantin and polypeptide-P increase insulin sensitivity and reduce insulin resistance. 3. Pancreatic beta cell support: It shows promise in stimulating the function of pancreatic beta cells. 4. Gut-metabolic axis: Bitter melon helps regulate the gut microbiome, reducing the absorption of excess sugar.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "It has been used in traditional Thai and folk medicine for a long time and is considered highly safe.",
+    "ic50_data": "",
+    "category": "Metabolic health Diabetes management Digestive system",
+    "tags": [
+      "Glucose metabolism regulation Insulin sensitivity improvement Gut-metabolic modulation"
+    ]
+  },
+  {
+    "id": "H-011",
+    "phytoCode": "TSPI-WATTANOTHAI-011",
+    "name": "WATTANOTHAI CAPSULE",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_16",
+      "AXIS_21",
+      "AXIS_9",
+      "AXIS_27"
+    ],
+    "description": "Watthanothai herbal formula acts through several main mechanisms: 1. Anti-inflammatory action: Inhibits NF-κB signaling COX-2 pathway, reducing inflammatory cytokines such as IL-6 and TNF-α, thus reducing inflammation of the gastrointestinal mucosa. 2. Gastric mucosal protection: Curcumin and gingerol increase mucus secretion, reducing mucosal damage and thus helping to heal gastric ulcers. 3. Bile secretion stimulation: Certain herbs increase bile flow and stimulate gallbladder contraction, improving fat digestion. 4. Gut barrier restoration: Increases the strength of tight junction proteins, reducing leaky gut syndrome. 5. Microbiome modulation: Reduces pathogenic bacteria and increases beneficial bacteria.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "Traditional Thai herbal remedies, used for centuries, are highly safe.",
+    "ic50_data": "",
+    "category": "Digestive system Gut health Liver and gallbladder support Metabolic digestion",
+    "tags": [
+      "Anti-inflammatory GI protection Gut barrier restoration Digestive enzyme stimulation"
+    ]
+  },
+  {
+    "id": "H-012",
+    "phytoCode": "TSPI-YHATEENNOK-012",
+    "name": "COMPOUND YHATEENNOK CAPSULE",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_27",
+      "AXIS_32",
+      "AXIS_33"
+    ],
+    "description": "This formula acts through several key mechanisms: 5.1 Sympathetic nervous system down-regulation: Reduces the stimulation of the sympathetic nervous system, a major cause of high blood pressure, headaches, and stress. 5.2 Vasodilation: The compounds in the formula increase nitric oxide signaling, causing vasodilation and lowering blood pressure. 5.3 Cerebral circulation modulation: Reduces blood flow to the brain, alleviating headaches, migraines, and cerebral palsy. 5.4 Anti-inflammatory vascular effect: Inhibits NF-κB vascular inflammation. 5.5 Heat-clearing effect: The formula reduces upper body heat, fever, and febrile headaches.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "Traditional Thai herbal remedies, used for centuries, are highly safe.",
+    "ic50_data": "",
+    "category": "Cardiovascular system Nervous system Anti-inflammatory therapy",
+    "tags": [
+      "Vascular relaxation Sympathetic suppression Cerebral pressure reduction"
+    ]
+  },
+  {
+    "id": "H-013",
+    "phytoCode": "TSPI-STOMMA-013",
+    "name": "STOMMA CAPSULE",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_16"
+    ],
+    "description": "This formula acts through several important mechanisms: 5.1 Gastric mucosal protection: Increases mucus secretion, protecting the gastric lining. 5.2 Anti-ulcer activity: Curcumin helps reduce damage to the gastric lining. 5.3 H. pylori inhibition: The substances in the formula reduce the growth of H. pylori. 5.4 Anti-inflammatory effect: Inhibits NF-κB COX-2. 5.5 Gut barrier repair: Helps restore tight junction proteins, reducing leaky gut syndrome.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "Traditional Thai herbal remedies, used for centuries, are highly safe.",
+    "ic50_data": "",
+    "category": "Digestive system Gastrointestinal diseases",
+    "tags": [
+      "Gastric mucosal protection Anti-ulcer activity Microbiome modulation"
+    ]
+  },
+  {
+    "id": "H-014",
+    "phytoCode": "TSPI-RIDSI-014",
+    "name": "RID-SI CAPSULE",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_31"
+    ],
+    "description": "The RID-SI formula works through several main mechanisms: 5.1 Astringent hemostatic effect: Tannins and polyphenols help constrict blood vessels, reduce vascular permeability, and stop bleeding. 5.2 Tissue regeneration: Increases fibroblast activity and collagen synthesis, promoting faster wound closure and epithelial regeneration. 5.3 Anti-inflammatory modulation: Inhibits NF-κB and COX-2, reducing inflammation in the intestines, skin, and blood vessels. 5.4 Venous wall strengthening: Increases venous tone, restoring dilated veins to a normal state. 5.5 Microvascular repair: Improves endothelial stability and reduces vascular fragility.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "Traditional herbal formulas, used for centuries, have low toxicity and high safety.",
+    "ic50_data": "",
+    "category": "Hemorrhoids Digestive system Wound healing",
+    "tags": [
+      "Hemostatic astringent action Tissue regeneration Venous tone regulation"
+    ]
+  },
+  {
+    "id": "H-012",
+    "phytoCode": "TSPI-GARCINIA-012",
+    "name": "GARCINIA",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_2",
+      "AXIS_31",
+      "AXIS_21"
+    ],
+    "description": "Mangosteen peel extract acts through multiple mechanisms: Anti-inflammatory pathway inhibition, NF-κB signaling, COX-2 expression reduction, and reduction of cytokines IL-6 and TNF-α. Antioxidant activity: xanthones exhibit free radical scavenging properties, reducing oxidative stress. Antimicrobial effect: inhibits Staphylococcus aureus and Escherichia coli, helping to treat inflammatory bowel disease. Gut barrier support: reduces inflammation of the intestinal lining and improves the integrity of the intestinal barrier.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily before meals.",
+    "safety": "It has been used in traditional Thai medicine for a long time and is considered very safe.",
+    "ic50_data": "",
+    "category": "Immune system Digestive system Skin health Anti-inflammatory therapy",
+    "tags": [
+      "Anti-inflammatory modulation Antioxidant protection Antimicrobial activity"
+    ]
+  },
+  {
+    "id": "H-013",
+    "phytoCode": "TSPI-HOUTTUYNIA-013",
+    "name": "HOUTTUYNIA CORDATA CAPSULE",
+    "axes": [
+      "AXIS_2",
+      "AXIS_1",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_3",
+      "AXIS_9",
+      "AXIS_21"
+    ],
+    "description": "Houttuynia cordata extract acts through several mechanisms: 1. Immune modulation, helping to balance T-cell response and macrophage activation. 2. Anti-inflammatory pathway, inhibiting NF-κB signaling and COX-2 expression, and reducing cytokines IL-6 and TNF-α. 3. Antiviral activity, reported to inhibit viral replication, particularly of respiratory viruses. 4. Microbiome modulation, helping to reduce pathogenic bacteria in the intestines and increase beneficial bacteria.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "It has been used in traditional Asian medicine for a long time and is considered very safe.",
+    "ic50_data": "",
+    "category": "Immune system Respiratory system Digestive system",
+    "tags": [
+      "Immune modulation Antiviral activity Anti-inflammatory regulation"
+    ]
+  },
+  {
+    "id": "H-014",
+    "phytoCode": "TSPI-CENTELLA-014",
+    "name": "Centella Asiatica Capsule",
+    "axes": [
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_25",
+      "AXIS_31",
+      "AXIS_33",
+      "AXIS_34"
+    ],
+    "description": "Centella asiatica (Gotu Kola) formulations act through multiple mechanisms: Neuroprotection (asiaticoside and madecassoside increase BDNF, reducing neuroinflammation), Collagen synthesis (stimulate fibroblast proliferation and collagen synthesis, promoting wound healing and tissue repair), Circulation improvement (increased microcirculation and oxygen delivery), and Anti-inflammatory pathway (inhibition of NF-κB COX-2).",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily before meals.",
+    "safety": "It has been used in traditional Thai medicine for a long time and is considered very safe.",
+    "ic50_data": "",
+    "category": "Brain health Skin regeneration Circulation",
+    "tags": [
+      "Neuroprotection Tissue regeneration Circulation enhancement"
+    ]
+  },
+  {
+    "id": "H-015",
+    "phytoCode": "TSPI-BLAX-015",
+    "name": "B-LAX CAPSULE",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_16",
+      "AXIS_20",
+      "AXIS_33",
+      "AXIS_22",
+      "AXIS_35"
+    ],
+    "description": "This formula acts through multiple mechanisms: 1. Enteric nervous system regulation, helping to balance the intestinal nervous system; 2. Peristalsis stimulation, promoting bowel movement; 3. Gas elimination, expelling gas from the digestive tract; 4. Digestive enzyme stimulation, increasing the secretion of digestive enzymes; 5. Gut microbiome support, promoting beneficial microorganisms.",
+    "dosage": "Take 2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "This recipe is very safe because it is a food herb that has been used in traditional Thai medicine for a long time.",
+    "ic50_data": "There is no IC50 data available for this formulation, as the experiments focused on other formulations such as KS Minoza Kerra IM-series.",
+    "category": "Digestive system Excretory system Brain-gut axis 26 Scientific Summary",
+    "tags": []
+  },
+  {
+    "id": "H-016",
+    "phytoCode": "TSPI-BLOOD-REGEN-016",
+    "name": "Nourishing Blood Tonic Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_25",
+      "AXIS_27",
+      "AXIS_31"
+    ],
+    "description": "The table contains herbs used for blood tonics, such as Ligusticum sinense, Piper retrofractum, Angelica spp., Phyllanthus spp., Arcnagelia flava, and Urecola minutiflora. These herbs exhibit hematopoietic, anti-inflammatory, and antioxidant properties.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "The herbs in this formula have low toxicity and can be used long-term.",
+    "ic50_data": "There is no IC50 data available for cell lines such as A431, HCT-116, HepG2, MCF-7, and A549.",
+    "category": "",
+    "tags": [
+      "neuroprotection vasodilation sleep regulation"
+    ]
+  },
+  {
+    "id": "H-017",
+    "phytoCode": "TSPI-CATHARTIC-017",
+    "name": "Cathartic Capsule",
+    "axes": [
+      "AXIS_16",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_20",
+      "AXIS_33"
+    ],
+    "description": "The formula acts through multiple mechanisms, including colon peristalsis stimulation, water secretion in the colon, and stool softening.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "This recipe uses herbs that have a long history of use and are considered highly safe.",
+    "ic50_data": "There is no IC50 data for this formulation in panel A431 HCT-116 HepG2 MCF-7 A549 HeLa NCI-H1975.",
+    "category": "",
+    "tags": [
+      "laxative detoxifying anti-inflammatory"
+    ]
+  },
+  {
+    "id": "H-018",
+    "phytoCode": "TSPI-VENTA-018",
+    "name": "Ya Venta Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_25",
+      "AXIS_33"
+    ],
+    "description": "Thai herbal formulas used for Derris scandens (Roxb.) Benth., Sphenodesme pentandra Jack, Piper nigrum L., and Zingiber officinale Roscoe: This group of herbs has anti-inflammatory, analgesic, and circulation-enhancing properties.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "The herbs in this formula are very safe.",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "H-019",
+    "phytoCode": "TSPI-FEVA-IMMUNE-019",
+    "name": "FEVA CAPSULE",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_9",
+      "AXIS_31",
+      "AXIS_32"
+    ],
+    "description": "The formula acts through multiple mechanisms, including an antipyretic mechanism that lowers the hypothalamic temperature set point, thereby reducing fever.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "The herbs in this formula are very safe.",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "antiviral antibacterial antipyretic anti-inflammatory"
+    ]
+  },
+  {
+    "id": "H-020",
+    "phytoCode": "TSPI-BOVA-020",
+    "name": "BOVA Capsule",
+    "axes": [
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_33",
+      "AXIS_34",
+      "AXIS_35",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "The formula works through several mechanisms: melatonin potentiation, neurogenesis, AChE inhibition, vasodilation, and antioxidant protection. Melatonin potentiation, as shown by the melatonin assay, indicates that the BOVA formula can enhance melatonin activity and promote circadian rhythm.",
+    "dosage": "",
+    "safety": "The formula has low toxicity and can be used long-term.",
+    "ic50_data": "There is no IC50 data available for cell lines such as A431, HCT-116, HepG2, MCF-7, and A549.",
+    "category": "",
+    "tags": [
+      "neuroprotection vasodilation sleep regulation"
+    ]
+  },
+  {
+    "id": "H-021",
+    "phytoCode": "TSPI-PSYLAZA-021",
+    "name": "Psylaza Capsule",
+    "axes": [
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_33",
+      "AXIS_34",
+      "AXIS_35",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "The formula works through multiple mechanisms: AChE inhibition, neurogenesis, vasodilation, and antioxidant protection. 10. AChE Inhibition: From the AChE assay, the formula can inhibit acetylcholinesterase.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily, before meals or on an empty stomach.",
+    "safety": "The herbs in this formula have low toxicity.",
+    "ic50_data": "Create a mechanism map of a 200-module system (ACE/AChE/PDE5/Melatonin) and organize the Herbal Precision Medicine Database.",
+    "category": "",
+    "tags": [
+      "AChE inhibition Neurogenesis Vasodilation Antioxidant protection"
+    ]
+  },
+  {
+    "id": "H-022",
+    "phytoCode": "TSPI-CINNARA-022",
+    "name": "CINNARA Capsule",
+    "axes": [
+      "AXIS_2",
+      "AXIS_4",
+      "AXIS_9",
+      "AXIS_18",
+      "AXIS_25",
+      "AXIS_33"
+    ],
+    "description": "The formula works through mechanisms of digestive enzyme stimulation, microbiome modulation, intestinal motility regulation, and mucosal protection. Digestive Enzyme Stimulation: Herbs stimulate gastric secretion and pancreatic enzymes, speeding up digestion.",
+    "dosage": "500 mg per capsule. Take 2–4 capsules 3–4 times daily before meals.",
+    "safety": "No toxicity was found on normal cell lines.",
+    "ic50_data": "",
+    "category": "Reduced cytokines TNF-α IL-6 NF-κB",
+    "tags": [
+      "digestive enzyme stimulation microbiome modulation intestinal motility regulation mucosal protection"
+    ]
+  },
+  {
+    "id": "H-024",
+    "phytoCode": "TSPI-IMMUNE-DETOX-024",
+    "name": "Merdana Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_3",
+      "AXIS_9",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_21",
+      "AXIS_24",
+      "AXIS_36",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Thai herbal formula to boost immunity and stimulate NK cells to eliminate abnormal and cancerous cells: Murdannia loriformis, Smilax glabra, Hydnophytum formicarum, Houttuynia cordata, Suregada multiflora, Glycosmis pentaphylla.",
+    "dosage": "2–4 capsules (500 mg) 3–4 times daily, before meals or on an empty stomach.",
+    "safety": "The herbs in this formula have low toxicity and can be used long-term.",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "H-023",
+    "phytoCode": "TSPI-MYOFASCIAL-REPAIR-023",
+    "name": "Tarana Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_30"
+    ],
+    "description": "Thai herbal medicine recipes: Piper nigrum, Plumbago indica, Piper retrofractum, Acorus calamus, Terminalia chebula, Baliospermum montanum",
+    "dosage": "",
+    "safety": "The formula has low toxicity and can be used long-term.",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "H-026",
+    "phytoCode": "TSPI-DETOX-MICROBIOME-026",
+    "name": "KS Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_5",
+      "AXIS_9",
+      "AXIS_15",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_24",
+      "AXIS_36"
+    ],
+    "description": "A Thai herbal formula for systemic detoxification, cleansing the colon and restoring microbiome balance. It stimulates the elimination of toxins through sweat. This formula is a core formula in the TSPI 9-Step protocol, used in various modules such as the detox module, microbiome reset module, metabolic syndrome module, and anti-cancer support module. 5. Botanical Composition.",
+    "dosage": "",
+    "safety": "KS has low toxicity and can be used long-term.",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "antioxidant anti-cancer anti-inflammatory"
+    ]
+  },
+  {
+    "id": "H-027",
+    "phytoCode": "TSPI-HORMONE-VITALITY-027",
+    "name": "Ho Ren Yin Mixture",
+    "axes": [
+      "AXIS_5",
+      "AXIS_8",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_27",
+      "AXIS_31",
+      "AXIS_33"
+    ],
+    "description": "The formula contains the main herbs Epimedium grandiflorum, Panax ginseng, Angelica sinensis, Astragalus membranaceus, and Caesalpinia sappan. These herbs have the following effects: • Increase cellular energy • Improve blood circulation • Balance hormones.",
+    "dosage": "1–2 tablespoons, 1–2 times a day.",
+    "safety": "The herbs in this formula have low toxicity.",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "Epimedium grandiflorum Panax ginseng Angelica sinensis Astragalus membranaceus Caesalpinia sappan"
+    ]
+  },
+  {
+    "id": "H-028",
+    "phytoCode": "TSPI-MUSCLE-REGEN-028",
+    "name": "ANAX / AJAX Mixture",
+    "axes": [
+      "AXIS_5",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_24",
+      "AXIS_30"
+    ],
+    "description": "The main herbs in the formula include Epimedium grandiflorum, Panax ginseng, Angelica sinensis, Cissus quadrangularis, and Astragalus membranaceus.",
+    "dosage": "1–2 tablespoons, 1–2 times a day.",
+    "safety": "The herbs in this formula have low toxicity.",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "H-030",
+    "phytoCode": "TSPI-IMMUNE-INFLAM-030",
+    "name": "IM-6 Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_3",
+      "AXIS_9",
+      "AXIS_17",
+      "AXIS_21",
+      "AXIS_24",
+      "AXIS_36"
+    ],
+    "description": "Herbal formulas used for Smilax glabra, Houttuynia cordata, Andrographis paniculata, Curcuma longa, Tinospora crispa, and Piper retrofractum reduce tissue inflammation, reduce lymph node swelling, treat lymphatic disorders, and reduce internal abscesses. They are used in conditions such as lymphadenitis, liver abscesses, and lymph node abscesses.",
+    "dosage": "2–4 capsules (500 mg) 3–4 times daily before meals.",
+    "safety": "The herbs in this formula have low toxicity and can be used long-term.",
+    "ic50_data": "From the data in the table: HCT-116 IM-1 = 163.6 ± 7.06 µg/mL IM-5 = 150.0 ± 10.0 µg/mL Beta-X = 57.05 ± 13.72 µg/mL HepG2 IM-1 = >1000 µg/mL MCF-7 IM-1 = 259.7 ± 3.50 µg/mL A549 IM-1 = 134.1 ± 3.34 µg/mL IM-5 = 166.4 ± 4.08 µg/mL HeLa IM-1 = 391.7 ± 8.37 µg/mL IM-5 = 62.2 ± 3.85 µg/mL PC-3 Beta-V = 172.3 ± 8.16 µg/mL 22 Selectivity Index. Normal cells, such as those using Vero MDCK, showed no cytotoxicity, indicating that the formulation is safe for normal cells.",
+    "category": "",
+    "tags": [
+      "anti-inflammatory antimicrobial immune modulating"
+    ]
+  },
+  {
+    "id": "H-009",
+    "phytoCode": "TSPI-REGEN-ENDO-BLOOD-009",
+    "name": "HO REN YIN MIXTURE",
+    "axes": [
+      "AXIS_1",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_11",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_21",
+      "AXIS_23",
+      "AXIS_24",
+      "AXIS_26",
+      "AXIS_28",
+      "AXIS_29",
+      "AXIS_31",
+      "AXIS_32",
+      "AXIS_33",
+      "AXIS_35"
+    ],
+    "description": "Based on the information in the table and the recipe, it includes Epimedium grandiflorum, Lycium chinense, Panax ginseng, Angelica sinensis, Astragalus membranaceus, Atractylodes macrocephala, Caesalpinia sappan, and Deer Antler Velvet (deer antler velvet).",
+    "dosage": "",
+    "safety": "The recipe has low toxicity.",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "regenerative anabolic immunomodulatory hematopoietic anti-aging"
+    ]
+  },
+  {
+    "id": "H-010",
+    "phytoCode": "TSPI-REGEN-ENDO-010",
+    "name": "AM-PUR MIXTURE",
+    "axes": [
+      "AXIS_5",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_23",
+      "AXIS_24",
+      "AXIS_26",
+      "AXIS_28",
+      "AXIS_29",
+      "AXIS_31",
+      "AXIS_32",
+      "AXIS_33",
+      "AXIS_35"
+    ],
+    "description": "Based on the information in the table, the main herbs included are Cervus nippon antler (deer antler velvet), Panax ginseng, Angelica sinensis, Morinda officinalis, Atractylodes macrocephala, Astragalus membranaceus, Ligusticum spp., and Caesalpinia sappan. This formula belongs to the Qi-Blood-Kidney tonic group.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily before meals.",
+    "safety": "The herbs in the formula have low toxicity and can be used long-term.",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "regenerative anabolic hematopoietic anti-inflammatory"
+    ]
+  },
+  {
+    "id": "S-00-58",
+    "phytoCode": "TSPI-LIVER-REGEN-058",
+    "name": "HEPA-3 Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_6",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_15",
+      "AXIS_21",
+      "AXIS_24",
+      "AXIS_35"
+    ],
+    "description": "This herbal formula for liver regeneration is used to restore liver cells, reduce oxidative stress, stimulate hepatocyte proliferation, and promote liver cell regeneration. The formula also helps reduce TGF-β signaling, thus reducing liver fibrosis.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily before meals.",
+    "safety": "The herbs in the formula have low toxicity and are safe for long-term use.",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "β-glucans",
+      "polysaccharides",
+      "triterpenoids",
+      "cordycepin",
+      "phenolic antioxidants—these substances help reduce oxidative stress and regenerate liver cells."
+    ]
+  },
+  {
+    "id": "S-00-59",
+    "phytoCode": "TSPI-NEURO-SLEEP-059",
+    "name": "Sangvichai",
+    "axes": [
+      "AXIS_1",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_13",
+      "AXIS_17",
+      "AXIS_21",
+      "AXIS_24",
+      "AXIS_34",
+      "AXIS_36",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Axis 1 – systemic inflammation Axis 8 – mitochondrial network Axis 9 – oxidative stress regulation Axis 10 – proteostasis Axis 13 – longevity signaling Axis 17 – microbiome ecology Axis 21 – microcirculation Axis 24 – tissue repair Axis 34 – neuro-sleep-stress axis Axis 36 – neurodegeneration / oncology support",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "antioxidant anti-inflammatory cholinergic modulation"
+    ]
+  },
+  {
+    "id": "S-00-60",
+    "phytoCode": "TSPI-OXY-LIVER-DETOX-060",
+    "name": "Livoxy Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_15",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_25",
+      "AXIS_36"
+    ],
+    "description": "The key mechanism is to increase dissolved oxygen in the blood, enhancing oxygen delivery and allowing tissues to receive more oxygen. The formula helps reduce glycolytic metabolism, promotes mitochondrial respiration, thus slowing tumor growth, and increases mitochondrial activity and ATP production.",
+    "dosage": "2-4 capsules (500 mg) 3-4 times daily before meals.",
+    "safety": "The formula has low toxicity and can be used long-term.",
+    "ic50_data": "From the experimental results in the table, HCT-116 IC50 ≈ 32.12 ± 81.69 µg/mL, A549 IC50 >500 µg/mL, and Vero (normal cell) IC50 >1000 µg/mL indicate that the drugs are active against cancer cells but safe for normal cells.",
+    "category": "",
+    "tags": [
+      "hepatoprotective antioxidant anti-inflammatory antithrombotic"
+    ]
+  },
+  {
+    "id": "S-00-60NextSequence",
+    "phytoCode": "TSPI-MUSCLE-BONE-REGEN-061",
+    "name": "Bonax Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_21",
+      "AXIS_25",
+      "AXIS_28",
+      "AXIS_29",
+      "AXIS_30",
+      "AXIS_36"
+    ],
+    "description": "The mechanism of action includes increasing protein synthesis, reducing muscle breakdown, stimulating osteoblast activity, inhibiting osteoclasts, helping to reduce cartilage degradation, increasing collagen type II, and increasing blood flow and oxygen delivery to muscles.",
+    "dosage": "2-4 capsules 2-3 times daily.",
+    "safety": "Highly safe and suitable for long-term use.",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "S-00-61",
+    "phytoCode": "TSPI-WOUND-IMMUNE-061",
+    "name": "Rizzo Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_4",
+      "AXIS_9",
+      "AXIS_12",
+      "AXIS_18",
+      "AXIS_22",
+      "AXIS_36",
+      "AXIS_35"
+    ],
+    "description": "The mechanism of action includes stimulating fibroblast proliferation, collagen synthesis, angiogenesis, inhibiting bacteria and fungi, reducing wound infection, reducing swelling, constricting blood vessels, reducing bleeding, increasing macrophages and NK cells, increasing blood flow around the wound, and improving oxygen supply.",
+    "dosage": "2–4 capsules 2–3 times daily.",
+    "safety": "Highly safe and non-irritating.",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "Tannins EGCG Chlorophyll Sesamin Flavonoids"
+    ]
+  },
+  {
+    "id": "S-00-52",
+    "phytoCode": "S-00-52",
+    "name": "BETA 5 Capsule",
+    "axes": [
+      "AXIS_36"
+    ],
+    "description": "The most important mechanisms are: stimulating macrophage clearance, reducing pus formation and causing pus to dry (dry abscess); stimulating fibroblasts, increasing collagen, accelerating epithelialization; reducing inflammatory microenvironment; reducing angiogenesis; and reducing tumor-supporting cytokines.",
+    "dosage": "2–4 capsules 2–3 times daily.",
+    "safety": "Safe for long-term use; does not suppress the immune system.",
+    "ic50_data": "HCT-116 → ~543.9 µg/mL MCF-7 → ~88.63 µg/mL HepG2 → >1000 µg/mL A549 → >500 µg/mL HeLa → ~218.6 µg/mL RBE → ~220.6 µg/mL In summary, it is dominant in MCF-7 (breast cancer) and moderate in HeLa/RBE.",
+    "category": "",
+    "tags": [
+      "Drain abscess (extract pus)",
+      "reduce cytokine storm",
+      "and inhibit TME (Tumor microenvironment)."
+    ]
+  },
+  {
+    "id": "S-00-47",
+    "phytoCode": "TSPI-TOXIN-INFLAM-TME-IM7",
+    "name": "IM-7 Detox & Anti-Inflammatory Capsule",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_9",
+      "AXIS_15",
+      "AXIS_22",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_34",
+      "AXIS_36"
+    ],
+    "description": "The most important mechanisms are reducing pus formation, decreasing exudate, causing abscesses to \"dry up,\" reducing the spread of infection, stimulating NK cells, and increasing macrophage efficiency.",
+    "dosage": "2–4 capsules 2–3 times daily before meals.",
+    "safety": "Low toxicity (from Vero >500), suitable for moderate use, but should be monitored in critically ill patients.",
+    "ic50_data": "HepG2 → >1000 µg/mL MCF-7 → >500 µg/mL A549 → 218 ± 7.9 µg/mL Vero → >500 µg/mL",
+    "category": "",
+    "tags": [
+      "detox herbs adaptogens anti-inflammatory herbs immunomodulators anti-cancer phytochemicals"
+    ]
+  },
+  {
+    "id": "S-00-48",
+    "phytoCode": "TSPI-GYNO-HORMONE-CIRC-048",
+    "name": "ANGERA Hormonal Balance Capsule",
+    "axes": [
+      "AXIS_3",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_24",
+      "AXIS_27",
+      "AXIS_9",
+      "AXIS_31",
+      "AXIS_35"
+    ],
+    "description": "Increases blood flow to the uterus, reduces blood stagnation, reduces clot retention, reduces oxidative stress on blood vessel walls, increases NO production, reduces platelet aggregation, reduces uterine clotting, reduces uterine adhesions, reduces adhesion, conditions the uterus, and improves the fertility environment.",
+    "dosage": "2–4 capsules 2–3 times daily before meals.",
+    "safety": "Highly safe, suitable for long-term use.",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "S-00-55",
+    "phytoCode": "BETA G / 12-1-05-555-5-0-098",
+    "name": "BETA G",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_18",
+      "AXIS_24",
+      "AXIS_34",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "This formula acts through several key mechanisms, including: 5.1 Lymphatic-immune reset, which helps reduce \"lymphatic dysfunction\" in a systemic sense, i.e., inflammatory congestion; 5.2 Anti-inflammatory regulation, which helps reduce inflammatory signaling; 5.3 Anti-infective support, which strengthens the immune system to fight viral and bacterial infections, as well as purulent inflammation; 5.4 Wound and abscess resolution, which reduces swelling, redness, pain, and heat, and promotes tissue healing; and 5.5 Oncology immune-environment support, which reduces inflammation in the cancer environment.",
+    "dosage": "2–4 capsules per dose, 2–3 times daily, after meals or as needed.",
+    "safety": "Based on the medicinal information and the Vero value shown in the image, this formula appears to be reasonably safe for normal cells, but caution should be exercised in patients taking anticoagulants, immunosuppressants, those with hypertension/edema sensitive to licorice, or those allergic to certain medicinal mushrooms.",
+    "ic50_data": "",
+    "category": "Immune system Lymphatic / inflammatory disorders Skin inflammatory disorders Infection & post-infectious recovery Wound healing Oncology support",
+    "tags": [
+      "The primary mechanisms of BETA G are detoxification—reducing lymphatic contaminants",
+      "decreasing inflammation and cytokine overload",
+      "balancing the immune system",
+      "inhibiting infectious inflammation",
+      "drying abscesses and promoting faster wound healing",
+      "reducing inflammatory TME in cancer",
+      "and supporting apoptosis/immune surveillance."
+    ]
+  },
+  {
+    "id": "S-00-53",
+    "phytoCode": "TSPI-RIZZ-096",
+    "name": "Vascular repair formula",
+    "axes": [
+      "AXIS_2",
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_30",
+      "AXIS_36"
+    ],
+    "description": "5.1 Vascular Astringent Mechanism: Increases vascular tone, decreases venous capacitance, decreases endothelial permeability → decreases hemorrhoidal swelling. 5.2 Anti-inflammatory Signaling: NF-κB inhibition, COX-2 ↓, IL-1β/IL-6 ↓ → decreases the inflammatory cascade. 5.3 Abscess Resolution Pathway: Macrophage activation, neutrophil clearance, biofilm disruption → decreases pus formation. 5.4 ECM Remodeling: Collagen I/III synthesis ↑, MMP inhibition, elastin stabilization → repairs blood vessel walls. 5.5 Tumor Microenvironment Regulation: Reduces hypoxia-driven inflammation, reduces VEGF/angiogenesis, increases immune surveillance.",
+    "dosage": "500 mg/capsule, 2–4 capsules/dose, 2–3 times daily.",
+    "safety": "",
+    "ic50_data": "",
+    "category": "Hemorrhoids Chronic wounds Abscess / infection Vascular disorders Oncology support",
+    "tags": [
+      "Astringent vascular tightening Anti-inflammatory suppression Abscess clearance ECM reconstruction Microcirculation restoration Immune reprogramming Anti-cancer modulation"
+    ]
+  },
+  {
+    "id": "S-00-03",
+    "phytoCode": "TSPI-GARLICA-004",
+    "name": "Allium sativum (garlic)",
+    "axes": [
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_16",
+      "AXIS_31",
+      "AXIS_36"
+    ],
+    "description": "6.1 Anti-thrombotic: Inhibits platelet aggregation. 6.2 Lipid lowering: HMG-CoA reductase inhibition. 6.3 Anti-inflammatory: NF-κB ↓ COX-2 ↓. 6.4 Antimicrobial: Destroys bacterial enzymes. 6.5 Vascular modulation: nitric oxide ↑.",
+    "dosage": "500 mg 2–3 times daily.",
+    "safety": "Highly safe, suitable for long-term use.",
+    "ic50_data": "",
+    "category": "Cardiovascular Immune Infection Metabolic",
+    "tags": [
+      "Prevents blood clots",
+      "lowers cholesterol",
+      "kills germs",
+      "reduces inflammation",
+      "and restores blood vessels."
+    ]
+  },
+  {
+    "id": "S-00-02",
+    "phytoCode": "TSPI-RICEZOZYME-CORE",
+    "name": "Bio Active Crystallization Technology (TSPI Patent Platform)",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_28",
+      "AXIS_29",
+      "AXIS_33"
+    ],
+    "description": "6.1 Bioavailability Enhancement molecular size reduction → absorption ↑ bioaccessibility ↑ tissue targeting ↑ 6.2 Microbiome Modulation Lactobacillus >40 strains gut ecosystem rebalancing symbiotic metabolic network 6.3 Proteomic Activation peptide signaling → gene expression modulation tissue repair signaling pathways ↑ 6.4 Neuro-metabolic Support GABA ↑ → calming CNS acetylcholine → cognitive function ↑ 6.5 Mitochondrial Support ATP production ↑ oxidative stress ↓",
+    "dosage": "1–2 capsules, 2–3 times daily, after meals.",
+    "safety": "Suitable for long-term use, suitable for all ages, and does not accumulate toxins.",
+    "ic50_data": "👉 No cytotoxic effect (functional regenerative formula) 👉 Functions as a supportive anti-cancer environment",
+    "category": "Microbiome therapy Regenerative medicine Anti-aging system NCD support",
+    "tags": [
+      "👉 “Systemic Regeneration via Microbiome–Peptide Axis” microbiome → signaling peptides → repair metabolism → restore"
+    ]
+  },
+  {
+    "id": "S-00-05",
+    "phytoCode": "TSPI-GARCINIA-META",
+    "name": "Garcinia atroviridis / Garcinia cambogia",
+    "axes": [
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_18",
+      "AXIS_17",
+      "AXIS_33"
+    ],
+    "description": "6.1 Lipogenesis inhibition: Inhibits ATP citrate lyase 👉 Reduces new fat formation. 6.2 Appetite regulation: Increases serotonin signaling 👉 Reduces appetite. 6.3 Metabolic shift: Glucose → energy pathway ↑ Fat storage ↓. 6.4 Anti-inflammatory: Reduces inflammatory adipokines.",
+    "dosage": "500–1000 mg 2–3 times daily before meals.",
+    "safety": "Safe for long-term use; no hepatotoxicity at normal doses.",
+    "ic50_data": "It is not cytotoxic to normal cells and is used as a metabolic regulator.",
+    "category": "Weight control Metabolic syndrome Lipid disorder",
+    "tags": [
+      "The \"Metabolic Reprogramming Module\" reduces fat synthesis",
+      "increases fat utilization",
+      "and reduces insulin resistance."
+    ]
+  },
+  {
+    "id": "S-00-06",
+    "phytoCode": "TSPI-BRANARA-NEURO-ENDO-006",
+    "name": "– TSPI NEURO–ENDOCRINE MASTER MODULE (Reconstructed",
+    "axes": [
+      "AXIS_34",
+      "AXIS_21",
+      "AXIS_20",
+      "AXIS_22",
+      "AXIS_1",
+      "AXIS_9",
+      "AXIS_18",
+      "AXIS_33",
+      "AXIS_36"
+    ],
+    "description": "6.1 Acetylcholinesterase inhibition increases acetylcholine and synaptic signaling. 6.2 ACE inhibition decreases vasoconstriction and lowers blood pressure. 6.3 Neurotransmitter regulation: serotonin ↑, dopamine balance, GABA ↑. 6.4 Autonomic nervous system balance: sympathetic ↓, parasympathetic ↑. 6.5 Neurogenesis: NGF ↑, BDNF ↑.",
+    "dosage": "1–2 capsules, 2–3 times daily.",
+    "safety": "",
+    "ic50_data": "",
+    "category": "Brain Nervous system Mental health Sleep Neurodegenerative",
+    "tags": [
+      "The \"Brain–Nerve–Hormone Reset System\" increases neurotransmitters",
+      "reduces neuroinflammation",
+      "restores neural circuits",
+      "and adjusts the autonomic system."
+    ]
+  },
+  {
+    "id": "12-1-05555-5-0056",
+    "phytoCode": "TSPI-MOD-12-1-05 555-5-0 056",
+    "name": "TOPAZ – Vascular–Prostate Modulation Formula",
+    "axes": [
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_32",
+      "AXIS_9",
+      "AXIS_1",
+      "AXIS_36",
+      "AXIS_35",
+      "AXIS_34"
+    ],
+    "description": "Primary Mechanisms: PDE5 inhibition → ↑cGMP; 5α-reductase inhibition → ↓DHT; NF-kB inhibition → ↓inflammation; ROS suppression → ↓oxidative stress",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "HEPA1",
+    "phytoCode": "Phase 1–3 Detox Platform",
+    "name": "TSPI MASTER LIVER DETOX & REGENERATION FORMULA",
+    "axes": [
+      "AXIS_15",
+      "AXIS_10",
+      "AXIS_9",
+      "AXIS_6",
+      "AXIS_36",
+      "AXIS_24",
+      "AXIS_5",
+      "AXIS_20",
+      "AXIS_11",
+      "AXIS_35"
+    ],
+    "description": "Multi-target phytochemical network Systems biology modulation Detox–Inflammation–Oncology integration",
+    "dosage": "",
+    "safety": "Non-toxic to normal cells (Vero high IC50) suitable long-term use",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "HEPA3",
+    "phytoCode": "TSPI-MOD-HEPA 3",
+    "name": "Advanced Liver Protocol",
+    "axes": [
+      "AXIS_15",
+      "AXIS_10",
+      "AXIS_25",
+      "AXIS_36",
+      "AXIS_9",
+      "AXIS_6",
+      "AXIS_5",
+      "AXIS_2",
+      "AXIS_24",
+      "AXIS_35"
+    ],
+    "description": "Systems detox + anti-cancer Multi-target network pharmacology Gene–immune–metabolic regulation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": [
+      "↑ AMPK ↓ mTOR ↑ lysosomal clearance"
+    ]
+  },
+  {
+    "id": "HEPA2",
+    "phytoCode": "TSPI-MOD-HEPA2",
+    "name": "Hepatic Detox & Fluid Clearance System",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_4",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_15",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_23",
+      "AXIS_25",
+      "AXIS_36",
+      "AXIS_35"
+    ],
+    "description": "The \"Liver Protection – Detoxification – Fluid Clearance\" formula works synergistically through detoxification (Phase I–III), autophagy clearance, fluid dynamics regulation, anti-inflammatory and anti-fibrosis effects. It stimulates hepatic detox enzymes (CYP450, GST, UGT), increases bile flow and xenobiotic clearance, promotes autophagy (LC3-II, AMPK), reduces NF-κB/IL-6/TNF-α, and regulates RAAS and fluid balance.",
+    "dosage": "",
+    "safety": "Low cytotoxicity in normal cells (>500 µg/mL), suitable for long-term use.",
+    "ic50_data": "HepG2: ~200–500 µg/mL, A549: ~200–500 µg/mL, HeLa: >250 µg/mL. Exhibits \"modulate\" cytotoxic activity (not severely destructive).",
+    "category": "Reduce vascular inflammation, increase circulation, and reduce fluid overload.",
+    "tags": [
+      "β-glucan (mushroom) → immune modulation Triterpenoids (reishi) → anti-fibrosis Fucoidan (wakame) → anti-inflammatory / anti-cancer Ginsenosides / saponins → circulation + detox"
+    ]
+  },
+  {
+    "id": "1",
+    "phytoCode": "GastroReg-01",
+    "name": "WATTA NOTHAI Capsule",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_1"
+    ],
+    "description": "Regulation of gastrointestinal motility Modulation of gut microbiome balance Anti-inflammatory activity in intestinal mucosa Enhancement of digestive enzyme secretion",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "2",
+    "phytoCode": "VasoBalance-02",
+    "name": "Yhateenok Capsule",
+    "axes": [
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_9"
+    ],
+    "description": "Regulation of vascular tone Anti-platelet aggregation Modulation of prostaglandin synthesis Microcirculation improvement",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "3",
+    "phytoCode": "GastroShield-03",
+    "name": "Stomma Capsule",
+    "axes": [
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_9",
+      "AXIS_1"
+    ],
+    "description": "Anti-ulcer activity Reduction of Helicobacter pylori colonization Protection of gastric mucosal barrier Anti-oxidative stress in gastric epithelial cells",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "4",
+    "phytoCode": "HemorrhoGuard-04",
+    "name": "RID-SI Capsule",
+    "axes": [
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_21",
+      "AXIS_1"
+    ],
+    "description": "Anti-inflammatory effect on vascular plexus Venous tone improvement Tissue regeneration of rectal mucosa",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "5",
+    "phytoCode": "DigestFlow-05",
+    "name": "B-LAX Capsule",
+    "axes": [
+      "AXIS_17",
+      "AXIS_20",
+      "AXIS_16"
+    ],
+    "description": "Intestinal motility stimulation Bile secretion modulation Regulation of colon transit time",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "6",
+    "phytoCode": "HematoNourish-06",
+    "name": "Nourishing Blood Capsule",
+    "axes": [
+      "AXIS_28",
+      "AXIS_22",
+      "AXIS_21"
+    ],
+    "description": "Hematopoiesis stimulation Iron metabolism support Enhancement of microvascular perfusion",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "7",
+    "phytoCode": "DetoxColon-07",
+    "name": "Catharic Capsule",
+    "axes": [
+      "AXIS_20",
+      "AXIS_16",
+      "AXIS_18"
+    ],
+    "description": "Colon detoxification Reduction of intestinal biofilm Enhancement of mucosal turnover",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "8",
+    "phytoCode": "VentraMotion-08",
+    "name": "YA VENTA Capsule",
+    "axes": [
+      "AXIS_29",
+      "AXIS_31",
+      "AXIS_9"
+    ],
+    "description": "Anti-inflammatory musculoskeletal action Pain modulation Improvement of joint mobility",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "9",
+    "phytoCode": "ViralDefense-09",
+    "name": "FEVA Capsule",
+    "axes": [
+      "AXIS_3",
+      "AXIS_2",
+      "AXIS_1"
+    ],
+    "description": "Antiviral activity Immune modulation Reduction of cytokine storm signaling",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "10",
+    "phytoCode": "NeuroCalm-10",
+    "name": "BOVA Capsule",
+    "axes": [
+      "AXIS_35",
+      "AXIS_32",
+      "AXIS_9"
+    ],
+    "description": "Neurotransmitter balance (GABA / serotonin) Sleep regulation Reduction of neuroinflammation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "11",
+    "phytoCode": "Digestive Transit & Liver-Gut Support Module",
+    "name": "CINNARA BRAND CAPSULE",
+    "axes": [
+      "AXIS_17",
+      "AXIS_16",
+      "AXIS_18",
+      "AXIS_35",
+      "AXIS_1"
+    ],
+    "description": "Regulates gastrointestinal motility and bowel movements, reducing bloating, heartburn, gas, and dyspepsia. Supports digestive secretion and bile flow, helps balance gut-brain-digestive signaling, and reduces inflammation in the upper intestinal mucosa.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "12",
+    "phytoCode": "Dermal-Immune Restoration Module",
+    "name": "MERDANA CAPSULE",
+    "axes": [
+      "AXIS_2",
+      "AXIS_25",
+      "AXIS_1",
+      "AXIS_3",
+      "AXIS_31",
+      "AXIS_35"
+    ],
+    "description": "Reduces inflammation of the skin and mucous membranes, supports wound healing and tissue regeneration, modulates immunity in rashes, allergies, and skin sensitivities, reduces the microbial inflammatory burden on the skin and mucous membranes, and is effective in skin-immune-respiratory linkage contexts.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "13",
+    "phytoCode": "Musculo-Digestive Circulation Module",
+    "name": "YA TARANA CAPSULE",
+    "axes": [
+      "AXIS_29",
+      "AXIS_17",
+      "AXIS_21",
+      "AXIS_31",
+      "AXIS_1",
+      "AXIS_16"
+    ],
+    "description": "Reduces muscle and tendon pain and stagnation of energy. Stimulates digestion, absorption, and blood circulation. Reduces inflammatory stagnation in the musculoskeletal system. Helps with bloating and chronic aches. Connects digestive fire with circulation and musculoskeletal repair.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "14",
+    "phytoCode": "KS Systemic Reset Module",
+    "name": "YA KS CAPSULE",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_1",
+      "AXIS_16",
+      "AXIS_5"
+    ],
+    "description": "This is a system-reset module focusing on digestion, inflammation, and microbiome correction. It reduces dysbiosis and metabolic stagnation, decreases gut inflammation and functional leaky gut syndrome, and connects gut function with systemic inflammatory modulation. It's ideal as a core module for early Fundamental Medicine.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "15",
+    "phytoCode": "Lymphatic-Inflammatory Drainage Module",
+    "name": "MINOZA CAPSULE",
+    "axes": [
+      "AXIS_1",
+      "AXIS_25",
+      "AXIS_2",
+      "AXIS_16",
+      "AXIS_21",
+      "AXIS_36"
+    ],
+    "description": "Reduces edema, lymphatic congestion, and inflammatory congestion; supports immune drainage and tissue detoxification; reduces heat toxins and swelling in immune and skin contexts; suitable for chronic inflammation with edema or lymphatic burden; effective in oncology-support, skin-immune, and infection-recovery systems.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "16",
+    "phytoCode": "Kerra Immune-Oncology Regulatory Module",
+    "name": "KERRA CAPSULE",
+    "axes": [
+      "AXIS_2",
+      "AXIS_1",
+      "AXIS_3",
+      "AXIS_9",
+      "AXIS_19",
+      "AXIS_36",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Immune balancing + anti-inflammatory + pathogen defense, anti-oxidative and tissue-protective effects. Supportive role in viral/infectious states and chronic inflammatory disorders. Oncological support context through modulation of inflammation, immunity, and tissue resilience, enhancing the microbiome–immune axis and helping to reduce toxic inflammatory load.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "17",
+    "phytoCode": "Ho-Ren Yin Restorative Elixir Module",
+    "name": "HO REN YIN MIXTURE",
+    "axes": [
+      "AXIS_14",
+      "AXIS_28",
+      "AXIS_34",
+      "AXIS_29",
+      "AXIS_30",
+      "AXIS_2",
+      "AXIS_35"
+    ],
+    "description": "Restores organ reserve and physical resilience, strengthens immunity, improves blood circulation, and restores the nervous and muscular systems. Supports the endocrine-growth-repair axis and aids recovery after chronic weakness, serious illness, or age-related decline. A classic rejuvenation and restorative tonic from TSPI.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "18",
+    "phytoCode": "Anax Rejuvenative Movement Module",
+    "name": "ANAX MIXTURE",
+    "axes": [
+      "AXIS_29",
+      "AXIS_17",
+      "AXIS_21",
+      "AXIS_31",
+      "AXIS_34",
+      "AXIS_1"
+    ],
+    "description": "Restores physical strength, movement, and digestive-fire linked vitality. Reduces muscle and joint pain and trapped gas. Improves circulation, metabolism, and neuromuscular activation. Suitable for those with fatigue accompanied by aches and digestive weakness. Acts as a bridge module between musculoskeletal + metabolic + vitality.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "19",
+    "phytoCode": "Imperial Vital Reserve Module",
+    "name": "Deer Velvet Antler Elixir",
+    "axes": [
+      "AXIS_14",
+      "AXIS_28",
+      "AXIS_34",
+      "AXIS_2",
+      "AXIS_29",
+      "AXIS_30"
+    ],
+    "description": "Enhances overall body reserve, increases strength, recovery, and supports the circulatory and nervous systems. Supports the endocrine-immune-longevity axis. Used in individuals with degenerative conditions, weakness, or recovering from serious illnesses as a high-grade restorative elixir module.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "20",
+    "phytoCode": "AM-PUR Endocrine-Rejuvenation Module",
+    "name": "AM-PUR",
+    "axes": [
+      "AXIS_33",
+      "AXIS_14",
+      "AXIS_34",
+      "AXIS_29",
+      "AXIS_30",
+      "AXIS_21",
+      "AXIS_2"
+    ],
+    "description": "This is a premium rejuvenation module for the endocrine-sexual-vital reserve system, enhancing vitality, muscle, bone, hormones, and sexual performance. It supports blood circulation and nervous vitality and is used in conditions of age-related decline, weakness, and hormonal depletion. It is also a longevity-sexual vitality crossover module.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "21",
+    "phytoCode": "Anti-Inflammatory Joint & Circulation Module",
+    "name": "KIMLUY BRAND YELLOW OIL",
+    "axes": [
+      "AXIS_29",
+      "AXIS_31",
+      "AXIS_1",
+      "AXIS_21"
+    ],
+    "description": "Reduces inflammation of muscles and joints, alleviates pain from inflammatory mediators, improves microcirculation, and reduces muscle spasm and stiffness.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "22",
+    "phytoCode": "Bone Mineralization Support Module",
+    "name": "REDCAL",
+    "axes": [
+      "AXIS_30",
+      "AXIS_21",
+      "AXIS_29"
+    ],
+    "description": "Increases bone mass formation, supports osteoblast activity, increases calcium bioavailability, and reduces osteopenia.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "23",
+    "phytoCode": "Beta-Glucan Immune Activation Module",
+    "name": "IM-1 BETAGLUCAN",
+    "axes": [
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_36",
+      "AXIS_1"
+    ],
+    "description": "Stimulates macrophages and NK cells, enhances immune surveillance, reduces chronic inflammation, and promotes wound healing.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "24",
+    "phytoCode": "Cordyceps Energy & Circulation Module",
+    "name": "TANGCHOU PLUS SANCHI",
+    "axes": [
+      "AXIS_7",
+      "AXIS_14",
+      "AXIS_21",
+      "AXIS_29"
+    ],
+    "description": "Increases mitochondrial energy, restores blood circulation, reduces fatigue, and enhances immune-metabolic balance.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "25",
+    "phytoCode": "Respiratory Immune Protection Module",
+    "name": "VARIZ",
+    "axes": [
+      "AXIS_3",
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_35"
+    ],
+    "description": "Prevents respiratory infections, reduces cytokine storm, increases antiviral immunity, and reduces allergic inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "26",
+    "phytoCode": "Neuro-Metabolic Vitality Module",
+    "name": "EDH",
+    "axes": [
+      "AXIS_9",
+      "AXIS_35",
+      "AXIS_16",
+      "AXIS_14"
+    ],
+    "description": "Increases antioxidant capacity, restores the nervous system, enhances metabolic detoxification, and reduces oxidative stress.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "27",
+    "phytoCode": "Brain Cognitive Circulation Module",
+    "name": "BRANARA",
+    "axes": [
+      "AXIS_35",
+      "AXIS_21",
+      "AXIS_9"
+    ],
+    "description": "Increases cerebral blood flow, improves cognitive function, reduces neurodegeneration, and increases synaptic plasticity.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "28",
+    "phytoCode": "Garlic Cardiometabolic Module",
+    "name": "GARLICA",
+    "axes": [
+      "AXIS_21",
+      "AXIS_5",
+      "AXIS_18",
+      "AXIS_9"
+    ],
+    "description": "Lower blood lipids, reduce platelet aggregation, improve endothelial function, and improve the microbiome.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "29",
+    "phytoCode": "Microbiome Symbiosis Module",
+    "name": "RICEZOZYME",
+    "axes": [
+      "AXIS_18",
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_1"
+    ],
+    "description": "Improve microbiome diversity, increase SCFA production, reduce intestinal inflammation, and increase nutrient absorption.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "30",
+    "phytoCode": "Metabolic Weight Control Module",
+    "name": "GARCINIA",
+    "axes": [
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_14"
+    ],
+    "description": "Reduces lipogenesis, increases fat oxidation, decreases appetite, and adjusts metabolic energy balance.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "31",
+    "phytoCode": "Neuro-Endocrine Vitality Module",
+    "name": "HO REN YIN MIXTURE",
+    "axes": [
+      "AXIS_34",
+      "AXIS_7",
+      "AXIS_28",
+      "AXIS_35"
+    ],
+    "description": "Restores neuroendocrine systems, increases cellular energy and mitochondrial activity, enhances blood production, and increases stress resilience.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "32",
+    "phytoCode": "Anti-Fatigue Longevity Module",
+    "name": "ANAX MIXTURE",
+    "axes": [
+      "AXIS_7",
+      "AXIS_29",
+      "AXIS_14"
+    ],
+    "description": "Increases mitochondrial ATP, reduces chronic fatigue, improves muscular endurance, and balances metabolism.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "33",
+    "phytoCode": "Neuro-Metabolic Restoration Module",
+    "name": "TANGTU NGCHOU PLUS 2",
+    "axes": [
+      "AXIS_35",
+      "AXIS_34",
+      "AXIS_21"
+    ],
+    "description": "Increases neuronal energy metabolism, restores immune-endocrine balance, improves cerebral circulation, and reduces neurodegeneration risk.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "34",
+    "phytoCode": "Digestive Healing Module",
+    "name": "KERMA",
+    "axes": [
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_1"
+    ],
+    "description": "Reduces inflammation of the digestive tract, prevents stomach ulcers, improves microbiome, and promotes mucosal healing.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "35",
+    "phytoCode": "Antioxidant Longevity Module",
+    "name": "RADICA",
+    "axes": [
+      "AXIS_9",
+      "AXIS_12",
+      "AXIS_14"
+    ],
+    "description": "Increases antioxidant capacity, reduces ROS damage, decreases AGE formation, and prevents cellular aging.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "36",
+    "phytoCode": "Female Hormonal Balance Module",
+    "name": "FEMOON",
+    "axes": [
+      "AXIS_32",
+      "AXIS_1",
+      "AXIS_14"
+    ],
+    "description": "Balances estrogen receptors, reduces menopause symptoms, improves reproductive health, and reduces inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "37",
+    "phytoCode": "Cardiovascular Longevity Module",
+    "name": "IVORA",
+    "axes": [
+      "AXIS_21",
+      "AXIS_23",
+      "AXIS_6"
+    ],
+    "description": "Reduces vascular inflammation, increases endothelial nitric oxide, regulates lipid metabolism, and reduces thrombosis risk.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "38",
+    "phytoCode": "Cellular Detoxification Module",
+    "name": "VITACEL",
+    "axes": [
+      "AXIS_16",
+      "AXIS_9",
+      "AXIS_8"
+    ],
+    "description": "Stimulates the Nrf2 detox pathway, increases glutathione synthesis, reduces toxin accumulation, and increases mitochondrial resilience.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "39",
+    "phytoCode": "Immune Antiviral Defense Module",
+    "name": "KERMA COMPLEX",
+    "axes": [
+      "AXIS_3",
+      "AXIS_2",
+      "AXIS_36"
+    ],
+    "description": "Inhibits viral replication, increases interferon signaling, reduces cytokine storm, and enhances innate immunity.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "40",
+    "phytoCode": "Blood & Energy Restoration Module",
+    "name": "NOURISHING BLOOD TONIC",
+    "axes": [
+      "AXIS_28",
+      "AXIS_7",
+      "AXIS_21"
+    ],
+    "description": "Increases hematopoiesis, restores anemia, increases oxygen delivery, and improves physical endurance.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "41",
+    "phytoCode": "Women's Endocrine Renewal Module",
+    "name": "TANGTU NGCHOU PLUS 2",
+    "axes": [
+      "AXIS_32",
+      "AXIS_28",
+      "AXIS_7",
+      "AXIS_21"
+    ],
+    "description": "Balances the endocrine system in women, improves hematopoietic function, enhances mitochondrial metabolism, and increases immune resilience.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "42",
+    "phytoCode": "Gastrointestinal Mucosal Repair Module",
+    "name": "KERMA (Digestive variant)",
+    "axes": [
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_1",
+      "AXIS_18"
+    ],
+    "description": "Reduces inflammation in the stomach and intestines, restores the mucosal barrier, reduces ulcer formation, and increases digestion enzyme activity.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "43",
+    "phytoCode": "Antioxidant Cellular Protection Module",
+    "name": "RADICA",
+    "axes": [
+      "AXIS_9",
+      "AXIS_12",
+      "AXIS_14",
+      "AXIS_15"
+    ],
+    "description": "Increase glutathione, reduce oxidative stress, decrease AGE formation, and enhance DNA protection.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "44",
+    "phytoCode": "Female Reproductive Vitality Module",
+    "name": "FEMOON",
+    "axes": [
+      "AXIS_32",
+      "AXIS_14",
+      "AXIS_1"
+    ],
+    "description": "Balances estrogen signaling, reduces menopause symptoms, improves reproductive function, and increases hormonal resilience.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "45",
+    "phytoCode": "Cardiometabolic Adaptation Module",
+    "name": "IVORA",
+    "axes": [
+      "AXIS_21",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_23"
+    ],
+    "description": "Reduces vascular inflammation, increases endothelial nitric oxide, regulates lipid metabolism, and reduces metabolic syndrome.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "46",
+    "phytoCode": "Cellular Detoxification & Antioxidant Module",
+    "name": "VITACEL",
+    "axes": [
+      "AXIS_16",
+      "AXIS_9",
+      "AXIS_8"
+    ],
+    "description": "Stimulates the Nrf2 pathway, increases glutathione production, reduces toxin accumulation, and increases cellular resilience.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "47",
+    "phytoCode": "Bone Mineral Density Module",
+    "name": "REDCAL",
+    "axes": [
+      "AXIS_30",
+      "AXIS_29",
+      "AXIS_24"
+    ],
+    "description": "Increases bone mineral density, increases osteoblast activity, and decreases bone resorption.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "48",
+    "phytoCode": "Immunometabolic Defense Module",
+    "name": "IM-1 Beta Glucan",
+    "axes": [
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_1"
+    ],
+    "description": "Enhances innate immunity, increases macrophage activity, reduces chronic inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "49",
+    "phytoCode": "Adaptogenic Endurance Module",
+    "name": "TANGCHOU PLUS SANCHI",
+    "axes": [
+      "AXIS_7",
+      "AXIS_34",
+      "AXIS_21"
+    ],
+    "description": "Increases stress resilience, increases mitochondrial ATP, and improves circulation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "50",
+    "phytoCode": "Anti-Allergic Immune Modulation Module",
+    "name": "VARIZ",
+    "axes": [
+      "AXIS_2",
+      "AXIS_1",
+      "AXIS_19"
+    ],
+    "description": "Reduces allergic inflammation, decreases histamine signaling, and improves immune balance.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "51",
+    "phytoCode": "Hematopoietic Restoration Module",
+    "name": "Nourishing Blood Capsule",
+    "axes": [
+      "AXIS_28",
+      "AXIS_22",
+      "AXIS_21",
+      "AXIS_14"
+    ],
+    "description": "Stimulates red blood cell production, increases microcirculation, improves oxygen delivery, and reduces fatigue from anemia.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "52",
+    "phytoCode": "Colon Detoxification Module",
+    "name": "Cathartic Capsule",
+    "axes": [
+      "AXIS_20",
+      "AXIS_18",
+      "AXIS_16",
+      "AXIS_19"
+    ],
+    "description": "Cleanses colon biofilm, stimulates peristalsis, and reduces toxic metabolites.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "53",
+    "phytoCode": "Gastrointestinal Motility Module",
+    "name": "Yaventa Capsule",
+    "axes": [
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_18"
+    ],
+    "description": "Increases bowel motility, reduces dyspepsia, and reduces intestinal inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "54",
+    "phytoCode": "Hepatobiliary Detox Module",
+    "name": "Cinnara Capsule",
+    "axes": [
+      "AXIS_16",
+      "AXIS_6",
+      "AXIS_5"
+    ],
+    "description": "Increase bile flow, reduce hepatic toxins, and regulate liver metabolism.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "55",
+    "phytoCode": "Vascular Anti-Inflammatory Module",
+    "name": "Yhateennok Capsule",
+    "axes": [
+      "AXIS_21",
+      "AXIS_9",
+      "AXIS_1"
+    ],
+    "description": "Reduces prostaglandin signaling, reduces vascular inflammation, reduces headache and migraine.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "56",
+    "phytoCode": "Gastric Repair Module",
+    "name": "Stomma Capsule",
+    "axes": [
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_1"
+    ],
+    "description": "Protects gastric mucosa, reduces H. pylori, and increases digestive enzymes.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "57",
+    "phytoCode": "Hemorrhoid & Vascular Repair Module",
+    "name": "RID-SI Capsule",
+    "axes": [
+      "AXIS_24",
+      "AXIS_21",
+      "AXIS_25"
+    ],
+    "description": "Reduces venous congestion, reduces hemorrhoid inflammation, and increases vascular repair.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "58",
+    "phytoCode": "Intestinal Clearance Module",
+    "name": "B-LAX Capsule",
+    "axes": [
+      "AXIS_20",
+      "AXIS_18",
+      "AXIS_16"
+    ],
+    "description": "Stimulates bowel movement, reduces intestinal toxin load, and reduces constipation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "59",
+    "phytoCode": "Systemic Rejuvenation Module",
+    "name": "AM-PUR Herbal Tonic",
+    "axes": [
+      "AXIS_14",
+      "AXIS_2",
+      "AXIS_8"
+    ],
+    "description": "Increases vitality, improves immune resilience, and enhances systemic repair.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "60",
+    "phytoCode": "Male Hormonal Vitality Module",
+    "name": "Butea Superba Capsule",
+    "axes": [
+      "AXIS_33",
+      "AXIS_21",
+      "AXIS_7"
+    ],
+    "description": "Increases androgen signaling, improves erectile function, and increases reproductive vitality.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "71",
+    "phytoCode": "Cardiovascular Lipid Balance Module",
+    "name": "FlaxPro",
+    "axes": [
+      "AXIS_9",
+      "AXIS_11",
+      "AXIS_5",
+      "AXIS_6"
+    ],
+    "description": "Lower LDL and triglyceride levels, increase HDL cholesterol, reduce endothelial inflammation, decrease platelet aggregation, and reduce oxidative stress in blood vessels.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "72",
+    "phytoCode": "Metabolic Reset Module",
+    "name": "Luce",
+    "axes": [
+      "AXIS_12",
+      "AXIS_11",
+      "AXIS_5",
+      "AXIS_2"
+    ],
+    "description": "Reduces insulin resistance, increases AMPK activation, reduces hepatic fat accumulation, and regulates glucose metabolism.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "73",
+    "phytoCode": "Prostate Support Module",
+    "name": "Topaz",
+    "axes": [
+      "AXIS_25",
+      "AXIS_6",
+      "AXIS_5"
+    ],
+    "description": "Inhibits 5-alpha reductase, reduces prostate inflammation, reduces oxidative stress, and regulates androgen metabolism.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "74",
+    "phytoCode": "Neuro-Cognitive Module",
+    "name": "Focuz",
+    "axes": [
+      "AXIS_30",
+      "AXIS_33",
+      "AXIS_9"
+    ],
+    "description": "Increases cerebral blood flow, enhances neuroplasticity, increases NGF signaling, and adjusts neurotransmitter balance.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "75",
+    "phytoCode": "Digestive Repair Module",
+    "name": "XS",
+    "axes": [
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4"
+    ],
+    "description": "Stimulates gastric motility, reduces dysbiosis, increases bile secretion, and reduces intestinal inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "76",
+    "phytoCode": "Circulation Module",
+    "name": "Tangchou Plus Sanchi",
+    "axes": [
+      "AXIS_10",
+      "AXIS_14",
+      "AXIS_6"
+    ],
+    "description": "Increases microcirculation, increases RBC oxygen transport, reduces vascular inflammation, and increases mitochondrial ATP.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "77",
+    "phytoCode": "Venous Circulation Module",
+    "name": "Variz",
+    "axes": [
+      "AXIS_9",
+      "AXIS_6"
+    ],
+    "description": "Increases venous tone, decreases venous stasis, and reduces endothelial inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "78",
+    "phytoCode": "Cellular Regeneration Module",
+    "name": "Vitacel",
+    "axes": [
+      "AXIS_5",
+      "AXIS_15",
+      "AXIS_14"
+    ],
+    "description": "Boosts antioxidant defense, enhances cellular detoxification, and improves DNA repair.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "79",
+    "phytoCode": "Bone Mineralization Module",
+    "name": "RedCal",
+    "axes": [
+      "AXIS_34",
+      "AXIS_24"
+    ],
+    "description": "Increases osteoblast activity, increases bone mineral density, and reduces bone inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "80",
+    "phytoCode": "Immune Defense Module",
+    "name": "IM-1",
+    "axes": [
+      "AXIS_1",
+      "AXIS_6",
+      "AXIS_32"
+    ],
+    "description": "Stimulates NK cell activity, increases macrophage activation, and reduces cytokine storm risk.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "81",
+    "phytoCode": "Metabolic Restoration Module",
+    "name": "DB-1",
+    "axes": [
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_11",
+      "AXIS_5"
+    ],
+    "description": "Improve insulin sensitivity Increase GLUT4 expression Reduce hepatic gluconeogenesis Suppress inflammatory cytokines in metabolic tissues Improve pancreatic beta-cell survival",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "82",
+    "phytoCode": "Neuro-Respiratory Support Module",
+    "name": "NARIS",
+    "axes": [
+      "AXIS_4",
+      "AXIS_6",
+      "AXIS_12",
+      "AXIS_5"
+    ],
+    "description": "Anti-viral activity Anti-inflammatory respiratory support Modulation of mucosal immunity Reduction of cytokine storm Enhancement of interferon signaling",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "83",
+    "phytoCode": "Immune Longevity Module",
+    "name": "Reishimuno",
+    "axes": [
+      "AXIS_4",
+      "AXIS_11",
+      "AXIS_3",
+      "AXIS_18"
+    ],
+    "description": "Immune modulation NK cell activation Antioxidant defense Longevity signaling Anti-tumor immune response",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "84",
+    "phytoCode": "Cellular Repair Module",
+    "name": "IM-5",
+    "axes": [
+      "AXIS_3",
+      "AXIS_7",
+      "AXIS_14",
+      "AXIS_5"
+    ],
+    "description": "Tissue regeneration Anti-oxidative stress Cellular DNA protection Collagen synthesis stimulation Anti-inflammatory repair",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "85",
+    "phytoCode": "Hepatic Detox Module",
+    "name": "HEPA-1",
+    "axes": [
+      "AXIS_1",
+      "AXIS_13",
+      "AXIS_5",
+      "AXIS_3"
+    ],
+    "description": "Hepatocyte protection Phase I and II detox enzyme activation Anti-fibrotic activity Reduction of liver inflammation Enhancement of bile flow",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "86",
+    "phytoCode": "Cardiovascular Protection Module",
+    "name": "HP-1",
+    "axes": [
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_5",
+      "AXIS_3"
+    ],
+    "description": "Improve endothelial function Reduce LDL oxidation Anti-thrombotic activity Enhance coronary circulation Reduce vascular inflammation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "87",
+    "phytoCode": "Immune Activation Module",
+    "name": "Beta-V",
+    "axes": [
+      "AXIS_4",
+      "AXIS_6",
+      "AXIS_18",
+      "AXIS_3"
+    ],
+    "description": "Macrophage activation NK cell stimulation Enhanced adaptive immunity Anti-viral immune response Immune homeostasis",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "88",
+    "phytoCode": "Longevity Regeneration Module",
+    "name": "REVITA",
+    "axes": [
+      "AXIS_11",
+      "AXIS_18",
+      "AXIS_4",
+      "AXIS_3"
+    ],
+    "description": "Enhance mitochondrial ATP production Anti-aging signaling Improve immune resilience Promote tissue repair Reduce chronic inflammation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "89",
+    "phytoCode": "Microbiome Regeneration Module",
+    "name": "IMO",
+    "axes": [
+      "AXIS_2",
+      "AXIS_4",
+      "AXIS_1",
+      "AXIS_8",
+      "AXIS_36",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Gut microbiome restoration Increase beneficial bacteria Improve intestinal barrier Reduce endotoxemia Enhance immune signaling via microbiome",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "90",
+    "phytoCode": "Omega Anti-Inflammatory Module",
+    "name": "FLAXPRO",
+    "axes": [
+      "AXIS_5",
+      "AXIS_20",
+      "AXIS_3",
+      "AXIS_10"
+    ],
+    "description": "Omega-3 mediated inflammation control Reduction of NF-κB signaling Cardiovascular protection Anti-oxidant defense Neuroprotection",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "91",
+    "phytoCode": "Vital Energy Module",
+    "name": "Tangtungchou Plus I",
+    "axes": [
+      "AXIS_11",
+      "AXIS_4",
+      "AXIS_20",
+      "AXIS_18"
+    ],
+    "description": "Enhance mitochondrial ATP production Improve oxygen utilization Increase red blood cell function Anti-fatigue and endurance improvement Immune modulation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "92",
+    "phytoCode": "Neuro-Endocrine Restoration Module",
+    "name": "Tangtungchou Plus II",
+    "axes": [
+      "AXIS_10",
+      "AXIS_15",
+      "AXIS_11",
+      "AXIS_18"
+    ],
+    "description": "Neuroendocrine axis support Hormonal regulation Nervous system rejuvenation Anti-fatigue and anti-stress activity",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "93",
+    "phytoCode": "Digestive Microbiome Repair Module",
+    "name": "Kerma",
+    "axes": [
+      "AXIS_2",
+      "AXIS_12",
+      "AXIS_5",
+      "AXIS_1"
+    ],
+    "description": "Improve digestion Restore intestinal microbiome balance Anti-inflammatory gastrointestinal protection Stimulate bile secretion Reduce gut dysbiosis",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "96",
+    "phytoCode": "Cardiometabolic Protection Module",
+    "name": "Ivora",
+    "axes": [
+      "AXIS_20",
+      "AXIS_8",
+      "AXIS_5",
+      "AXIS_11"
+    ],
+    "description": "Improve lipid metabolism Anti-inflammatory cardiovascular protection Enhance mitochondrial metabolism Support vascular endothelial health",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "97",
+    "phytoCode": "Anti-inflammatory Repair Module",
+    "name": "XM-2",
+    "axes": [
+      "AXIS_5",
+      "AXIS_7",
+      "AXIS_23"
+    ],
+    "description": "Strong anti-inflammatory activity Tissue repair and wound healing Joint and connective tissue support",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "98",
+    "phytoCode": "Renal-Urological Support Module",
+    "name": "Urana",
+    "axes": [
+      "AXIS_14",
+      "AXIS_1",
+      "AXIS_5",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "Support kidney detoxification Anti-inflammatory urinary tract protection Diuretic activity Reduce renal oxidative stress",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "99",
+    "phytoCode": "Gastrointestinal Protection Module",
+    "name": "Twmid",
+    "axes": [
+      "AXIS_12",
+      "AXIS_2",
+      "AXIS_5"
+    ],
+    "description": "Protect gastric mucosa Improve digestion Reduce intestinal inflammation Restore gut microbiome",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "100",
+    "phytoCode": "Herbal Cosmetic Healing Module",
+    "name": "Virana",
+    "axes": [
+      "AXIS_14",
+      "AXIS_7",
+      "AXIS_5"
+    ],
+    "description": "Skin regeneration Anti-inflammatory dermatological protection Antioxidant skin defense Improve wound healing",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "102",
+    "phytoCode": "Prebiotic Microbiome Module",
+    "name": "IMO",
+    "axes": [
+      "AXIS_2",
+      "AXIS_12",
+      "AXIS_8"
+    ],
+    "description": "Restore gut microbiome Increase SCFA production Improve metabolic regulation Strengthen gut barrier",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "103",
+    "phytoCode": "Systemic Detox and Inflammation Control Module",
+    "name": "KS",
+    "axes": [
+      "AXIS_1",
+      "AXIS_5",
+      "AXIS_13"
+    ],
+    "description": "Detoxification support Anti-inflammatory signaling control Improve circulation Support liver metabolism",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "104",
+    "phytoCode": "Lymphatic Regulation Module",
+    "name": "Minoza",
+    "axes": [
+      "AXIS_6",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_36",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39",
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_15",
+      "AXIS_16",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_30",
+      "AXIS_33",
+      "AXIS_35"
+    ],
+    "description": "Improve lymphatic circulation Reduce inflammatory swelling Improve immune drainage Support detox pathways",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "105",
+    "phytoCode": "Vital Qi Module",
+    "name": "Ho-Ren-Yin Herbal Tonic",
+    "axes": [
+      "AXIS_11",
+      "AXIS_4",
+      "AXIS_18"
+    ],
+    "description": "Improve systemic vitality Enhance immune response Increase mitochondrial energy",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "106",
+    "phytoCode": "Adaptogenic Vitality Module",
+    "name": "AM-PUR",
+    "axes": [
+      "AXIS_11",
+      "AXIS_15",
+      "AXIS_18"
+    ],
+    "description": "Adaptogenic stress regulation Improve endurance and energy Enhance immune response",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "107",
+    "phytoCode": "Musculoskeletal Relief Module",
+    "name": "Kimluy Yellow Oil",
+    "axes": [
+      "AXIS_23",
+      "AXIS_5",
+      "AXIS_20"
+    ],
+    "description": "Local anti-inflammatory activity Improve blood circulation Pain relief",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "108",
+    "phytoCode": "Cellular Detox Module",
+    "name": "CHLOROPHYNA",
+    "axes": [
+      "AXIS_1",
+      "AXIS_17",
+      "AXIS_3"
+    ],
+    "description": "Detoxification support Heavy metal binding Improve red blood cell formation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "109",
+    "phytoCode": "Microbiome Enzyme Module",
+    "name": "Ricezozyme",
+    "axes": [
+      "AXIS_2",
+      "AXIS_12",
+      "AXIS_5"
+    ],
+    "description": "Improve digestion Enhance microbiome diversity Reduce gut inflammation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "111",
+    "phytoCode": "Advanced Liver Detox Module",
+    "name": "Hepa-2",
+    "axes": [
+      "AXIS_13",
+      "AXIS_1",
+      "AXIS_3",
+      "AXIS_5"
+    ],
+    "description": "Hepatocyte protection Detoxification phase I / II activation Anti-fibrotic liver protection Reduce oxidative stress in liver cells",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "112",
+    "phytoCode": "Comprehensive Hepatic Support",
+    "name": "Hepa Plus",
+    "axes": [
+      "AXIS_13",
+      "AXIS_1",
+      "AXIS_5"
+    ],
+    "description": "Regeneration of hepatocytes Anti-inflammatory liver signaling Support bile metabolism Improve detoxification",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "113",
+    "phytoCode": "Nervous System Balance Module",
+    "name": "Angera",
+    "axes": [
+      "AXIS_10",
+      "AXIS_16",
+      "AXIS_20"
+    ],
+    "description": "Neurotransmitter balance Reduce anxiety and stress response Improve neuroplasticity Enhance cerebral circulation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "114",
+    "phytoCode": "Immune Regulation Module",
+    "name": "Beta-4",
+    "axes": [
+      "AXIS_4",
+      "AXIS_3",
+      "AXIS_5"
+    ],
+    "description": "Macrophage activation NK-cell stimulation Adaptive immune modulation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "115",
+    "phytoCode": "Bioactive Peptide Regeneration Module",
+    "name": "Buminmax",
+    "axes": [
+      "AXIS_24",
+      "AXIS_11",
+      "AXIS_18"
+    ],
+    "description": "Muscle regeneration Cellular repair Increase protein synthesis Improve recovery",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "116",
+    "phytoCode": "Hormonal Balance Module",
+    "name": "Lana",
+    "axes": [
+      "AXIS_15",
+      "AXIS_7",
+      "AXIS_18"
+    ],
+    "description": "Hormonal regulation Improve endocrine stability Support reproductive system",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "118",
+    "phytoCode": "Hepatic Restoration Module",
+    "name": "Hepa-3",
+    "axes": [
+      "AXIS_13",
+      "AXIS_1",
+      "AXIS_5"
+    ],
+    "description": "Liver regeneration Anti-fibrosis Detox support",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "119",
+    "phytoCode": "Systemic Immune & Detox Module",
+    "name": "Beta-X",
+    "axes": [
+      "AXIS_4",
+      "AXIS_1",
+      "AXIS_5"
+    ],
+    "description": "Immune regulation Anti-inflammatory effects Detox support",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "120",
+    "phytoCode": "Hepato-Metabolic Regulation Module",
+    "name": "Livita",
+    "axes": [
+      "AXIS_13",
+      "AXIS_8",
+      "AXIS_3"
+    ],
+    "description": "Improve liver metabolism Anti-oxidative hepatic protection Improve metabolic syndrome",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "122",
+    "phytoCode": "Metabolic Repair Module",
+    "name": "IM-5",
+    "axes": [
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_3"
+    ],
+    "description": "insulin receptor sensitivity glucose transport improvement pancreatic beta-cell support metabolic syndrome reduction",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "123",
+    "phytoCode": "Hepatic Regeneration Module",
+    "name": "Hepa-1",
+    "axes": [
+      "AXIS_13",
+      "AXIS_1",
+      "AXIS_5"
+    ],
+    "description": "hepatocyte regeneration anti-fibrotic protection detox enzyme activation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "124",
+    "phytoCode": "Cardiovascular Stability Module",
+    "name": "HP-1",
+    "axes": [
+      "AXIS_6",
+      "AXIS_20",
+      "AXIS_3"
+    ],
+    "description": "endothelial protection anti-atherosclerosis nitric oxide signaling",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "125",
+    "phytoCode": "Advanced Immune Matrix",
+    "name": "Beta-V",
+    "axes": [
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_3"
+    ],
+    "description": "immune priming antiviral defense cytokine balance",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "126",
+    "phytoCode": "Cellular Longevity Module",
+    "name": "Revita",
+    "axes": [
+      "AXIS_18",
+      "AXIS_11",
+      "AXIS_10"
+    ],
+    "description": "mitochondrial energy production neurovascular protection anti-aging gene expression",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "127",
+    "phytoCode": "Gut Microbiome Support Module",
+    "name": "IMO",
+    "axes": [
+      "AXIS_2",
+      "AXIS_12",
+      "AXIS_4"
+    ],
+    "description": "microbiome diversity SCFA production gut barrier strengthening",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "128",
+    "phytoCode": "Anti-Inflammatory Systemic Module",
+    "name": "KS",
+    "axes": [
+      "AXIS_5",
+      "AXIS_24",
+      "AXIS_3",
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_4"
+    ],
+    "description": "NF-κB inhibition COX-2 suppression systemic anti-inflammation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "129",
+    "phytoCode": "Lymphatic Detox Module",
+    "name": "Minoza",
+    "axes": [
+      "AXIS_14",
+      "AXIS_1",
+      "AXIS_4"
+    ],
+    "description": "lymphatic drainage toxin elimination immune detox",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "130",
+    "phytoCode": "Systemic Organ Detox Module",
+    "name": "Anax",
+    "axes": [
+      "AXIS_1",
+      "AXIS_13",
+      "AXIS_17"
+    ],
+    "description": "systemic detoxification liver-kidney support anti-inflammatory organ protection",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "131",
+    "phytoCode": "Multinutrient Cellular Support",
+    "name": "VitalPlus",
+    "axes": [
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_18",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Increases cellular energy, improves cerebral blood flow, enhances mitochondrial respiration, reduces oxidative stress, and balances the nervous system.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "132",
+    "phytoCode": "Renal Detox Module",
+    "name": "Urana",
+    "axes": [
+      "AXIS_17",
+      "AXIS_1",
+      "AXIS_5"
+    ],
+    "description": "Increases kidney excretion, reduces kidney stones, and reduces inflammation in the urinary tract.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "133",
+    "phytoCode": "Advanced Liver Protection",
+    "name": "Hepa-2",
+    "axes": [
+      "AXIS_13",
+      "AXIS_1",
+      "AXIS_3"
+    ],
+    "description": "Prevents hepatocyte damage, reduces fatty liver, and stimulates detox enzymes.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "134",
+    "phytoCode": "Circulation & Detox Module",
+    "name": "Beta-X",
+    "axes": [
+      "AXIS_5",
+      "AXIS_20",
+      "AXIS_24"
+    ],
+    "description": "Reduces inflammation throughout the body, improves blood flow, and reduces cytokine storm.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "135",
+    "phytoCode": "Traditional Detox Module",
+    "name": "Ya Sitthijohn",
+    "axes": [
+      "AXIS_14",
+      "AXIS_1",
+      "AXIS_4"
+    ],
+    "description": "Detoxify the blood system, lymphatic cleansing, antimicrobial protection.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "136",
+    "phytoCode": "Metabolic Balancing Module",
+    "name": "Vitalis",
+    "axes": [
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_3"
+    ],
+    "description": "Balances blood sugar levels and increases insulin sensitivity.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "137",
+    "phytoCode": "Neuro-Endocrine Support",
+    "name": "Ava",
+    "axes": [
+      "AXIS_10",
+      "AXIS_21",
+      "AXIS_18"
+    ],
+    "description": "Balances hormones, reduces stress, and increases neuroplasticity.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "138",
+    "phytoCode": "Systemic Organ Tonic",
+    "name": "Plumax Plus",
+    "axes": [
+      "AXIS_6",
+      "AXIS_20",
+      "AXIS_18",
+      "AXIS_36",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Restores the blood system, improves microcirculation, and nourishes major organs.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "139",
+    "phytoCode": "Orygis Bamboo Mouthwash™",
+    "name": "Orygis Bamboo Mouthwash",
+    "axes": [
+      "AXIS_30",
+      "AXIS_4",
+      "AXIS_5"
+    ],
+    "description": "antimicrobial oral protection gum inflammation reduction",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "140",
+    "phytoCode": "Propolis Immune Spray™",
+    "name": "Propolis Immune Spray",
+    "axes": [
+      "AXIS_4",
+      "AXIS_30",
+      "AXIS_5"
+    ],
+    "description": "antiviral protection mucosal immune activation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "141",
+    "phytoCode": "Circulatory Neurovascular Module",
+    "name": "Tangchou Plus Sanchi",
+    "axes": [
+      "AXIS_6",
+      "AXIS_10",
+      "AXIS_20"
+    ],
+    "description": "Increases cerebral circulation, reduces platelet aggregation, restores microvascular perfusion, and reduces ischemic injury.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "142",
+    "phytoCode": "Venous Circulation Repair Module",
+    "name": "Variz",
+    "axes": [
+      "AXIS_6",
+      "AXIS_20",
+      "AXIS_24"
+    ],
+    "description": "Increases venous tone, reduces varicose veins, and reduces vascular leakage.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "143",
+    "phytoCode": "Detox & Hepatic Clearance Module",
+    "name": "EDH",
+    "axes": [
+      "AXIS_13",
+      "AXIS_1",
+      "AXIS_3"
+    ],
+    "description": "Enhances phase I-II detoxification, reduces fatty liver, and protects hepatocytes.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "144",
+    "phytoCode": "Cardiovascular Flow Optimizer",
+    "name": "Stream",
+    "axes": [
+      "AXIS_6",
+      "AXIS_8",
+      "AXIS_3"
+    ],
+    "description": "Increases coronary circulation, reduces plaque formation, and decreases LDL oxidation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "145",
+    "phytoCode": "Cellular Energy Module",
+    "name": "VitaCel",
+    "axes": [
+      "AXIS_11",
+      "AXIS_10",
+      "AXIS_18"
+    ],
+    "description": "Increases mitochondrial respiration, increases ATP synthesis, reduces fatigue.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "146",
+    "phytoCode": "Marine Calcium Bone Matrix",
+    "name": "RedCal",
+    "axes": [
+      "AXIS_25",
+      "AXIS_24",
+      "AXIS_3"
+    ],
+    "description": "Increases osteoblast activity, increases bone mineral density, and decreases bone resorption.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "148",
+    "phytoCode": "Renal Detox & Fluid Balance Module",
+    "name": "KD",
+    "axes": [
+      "AXIS_17",
+      "AXIS_1",
+      "AXIS_5",
+      "AXIS_35"
+    ],
+    "description": "Diuretic action reduces inflammation in the kidneys and reduces kidney stones.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "149",
+    "phytoCode": "Renal Recovery Module",
+    "name": "Renax",
+    "axes": [
+      "AXIS_17",
+      "AXIS_6",
+      "AXIS_5",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Increases renal perfusion, reduces renal fibrosis, and decreases inflammatory cytokines.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "150",
+    "phytoCode": "Digestive Neuroenteric Module",
+    "name": "Sinaza",
+    "axes": [
+      "AXIS_15",
+      "AXIS_16",
+      "AXIS_5"
+    ],
+    "description": "Improves bowel motility, reduces IBS, and decreases gastrointestinal inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "151",
+    "phytoCode": "Gluco-Inflammatory Regulation Module",
+    "name": "DB-1",
+    "axes": [
+      "AXIS_8",
+      "AXIS_5",
+      "AXIS_11"
+    ],
+    "description": "Reduces insulin resistance, inhibits inflammatory cytokines, increases GLUT-4 signaling, and reduces lipid accumulation in the liver.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "153",
+    "phytoCode": "Adaptogenic Immune Longevity Module",
+    "name": "Reishimuno",
+    "axes": [
+      "AXIS_4",
+      "AXIS_19",
+      "AXIS_18"
+    ],
+    "description": "immune modulation anti-tumor surveillance anti-aging signaling",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "154",
+    "phytoCode": "Metabolic Detox Neurobalance Module",
+    "name": "IM-5",
+    "axes": [
+      "AXIS_3",
+      "AXIS_5",
+      "AXIS_8"
+    ],
+    "description": "Reduces systemic inflammation, balances metabolism, and reduces oxidative stress.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "157",
+    "phytoCode": "Viral Defense Immunomodulator",
+    "name": "BETA-V",
+    "axes": [
+      "AXIS_4",
+      "AXIS_21",
+      "AXIS_19"
+    ],
+    "description": "antiviral activity interferon stimulation innate immunity activation",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "158",
+    "phytoCode": "Prebiotic Microbiome Restoration Module",
+    "name": "IMO",
+    "axes": [
+      "AXIS_16",
+      "AXIS_15",
+      "AXIS_5"
+    ],
+    "description": "Increase beneficial microbiota, reduce gut inflammation, and increase SCFA production.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "159",
+    "phytoCode": "Neurovascular Longevity Module",
+    "name": "KS",
+    "axes": [
+      "AXIS_10",
+      "AXIS_6",
+      "AXIS_18",
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_15",
+      "AXIS_16",
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_30",
+      "AXIS_35",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "Increases cerebral blood flow, reduces neurodegeneration, and balances neurotransmitters.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "161",
+    "phytoCode": "Curcuma Digestive Integrity Module",
+    "name": "Curcuma Longa Capsule (Turmeric Capsules)",
+    "axes": [
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_1",
+      "AXIS_16",
+      "AXIS_9"
+    ],
+    "description": "Anti-inflammatory, protects the gastrointestinal lining, acts as an antioxidant, aids bile flow and fat digestion.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "162",
+    "phytoCode": "Andrographis Immune Defense Module",
+    "name": "Andrographis paniculata capsules.",
+    "axes": [
+      "AXIS_3",
+      "AXIS_2",
+      "AXIS_4",
+      "AXIS_1",
+      "AXIS_9"
+    ],
+    "description": "Immune modulation, antiviral defense support, reduction of inflammatory cytokines, reduction of fever, reduction of oxidative-inflammatory burden.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "163",
+    "phytoCode": "Absorn Women's Internal Harmony Module",
+    "name": "ABSORN CAPSULE (Apsorn Capsule Medicine)",
+    "axes": [
+      "AXIS_32",
+      "AXIS_1",
+      "AXIS_21",
+      "AXIS_25",
+      "AXIS_31"
+    ],
+    "description": "Pelvic circulation, menstrual cramps, vaginal discharge/odor, inflammation of the female reproductive system, skin balance and female hormones.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "164",
+    "phytoCode": "Derris Musculoskeletal Repair Module",
+    "name": "COMPOUND DERRIS SCANDENS CAPSULE (Derris Scandens Capsule)",
+    "axes": [
+      "AXIS_25",
+      "AXIS_31",
+      "AXIS_1",
+      "AXIS_29",
+      "AXIS_30"
+    ],
+    "description": "Reduces inflammatory pain, relaxes muscles and tendons, supports tissue repair, and reduces the accumulation of metabolic waste in muscle axes.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "165",
+    "phytoCode": "Velvet Antler Rejuvenation Module",
+    "name": "Deer Antler Velvet Capsule, Veychakorn Brand.",
+    "axes": [
+      "AXIS_28",
+      "AXIS_14",
+      "AXIS_2",
+      "AXIS_29",
+      "AXIS_30",
+      "AXIS_34"
+    ],
+    "description": "For older adults recovering from chronic illnesses, weakness, neurological and cognitive decline, and decreased bone and vitality, this product helps replenish regenerative reserves, supports the immune system, promotes growth/repair signaling, and restores nerve and bone vitality.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "166",
+    "phytoCode": "Butea Male Vitality Module",
+    "name": "BUTEA SUPERBA CAPSULE (Red Kwao Krua Capsules)",
+    "axes": [
+      "AXIS_33",
+      "AXIS_21",
+      "AXIS_24",
+      "AXIS_29",
+      "AXIS_14"
+    ],
+    "description": "Enhances male vitality, blood circulation, muscle power, androgen system, and physical endurance. Used in the context of male hormonal decline, erectile weakness, and metabolic weakness in middle-aged and older men.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "167",
+    "phytoCode": "Bencha-Kul Metabolic Fire Module",
+    "name": "BENCHAKUN CAPSULE (Benjakun Capsule Medicine)",
+    "axes": [
+      "AXIS_17",
+      "AXIS_7",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_18",
+      "AXIS_16"
+    ],
+    "description": "Suitable for those with poor digestion, bloating, poor absorption, slow metabolism, and overweight accompanied by digestive weakness.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "168",
+    "phytoCode": "Vetchakorn Neuro-Sleep Module No.6",
+    "name": "YA VETCHAKORN NO.6 (Medicine Vejakorn Number 6)",
+    "axes": [
+      "AXIS_35",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_1",
+      "AXIS_34"
+    ],
+    "description": "Suitable for insomnia, nervous tension, brain fatigue, and digestive discomfort that disrupts sleep. It's a module that connects neuro-sleep with digestive calming.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "169",
+    "phytoCode": "Ho Ren Yin Vital Organ Restore Module",
+    "name": "HO RENYIN CAPSULE          Horenyin Capsule",
+    "axes": [
+      "AXIS_14",
+      "AXIS_28",
+      "AXIS_2",
+      "AXIS_34",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "Suitable for the elderly, those with chronic fatigue, organ decline, recovery from illness, and low vital energy in multiple systems.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "170",
+    "phytoCode": "Bitter Melon Glycemic Balance Module",
+    "name": "MOMORDICA CHARANTIA CAPSULE         Bitter melon capsules",
+    "axes": [
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_1",
+      "AXIS_8",
+      "AXIS_21"
+    ],
+    "description": "Suitable for conditions such as hyperglycemia, insulin resistance, metabolic inflammation, diabetic vascular stress, prediabetes/type 2 diabetes, and for support of glycemic regulation, insulin sensitivity, and anti-inflammatory support. In the context of metabolic disease, it helps slow vascular damage.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "171",
+    "phytoCode": "Microcirculation & Blood Qi Regulation Module",
+    "name": "Tangchou Plus Sanchi",
+    "axes": [
+      "AXIS_6",
+      "AXIS_20",
+      "AXIS_5"
+    ],
+    "description": "Increases microcirculation, decreases platelet aggregation, and reduces vascular inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "172",
+    "phytoCode": "Venous Circulation Support Module",
+    "name": "Variz",
+    "axes": [
+      "AXIS_6",
+      "AXIS_20",
+      "AXIS_17"
+    ],
+    "description": "Strengthens veins, reduces venous insufficiency, reduces edema.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "173",
+    "phytoCode": "Endothelial Detox & Hemodynamics Module",
+    "name": "EDH",
+    "axes": [
+      "AXIS_6",
+      "AXIS_3",
+      "AXIS_5"
+    ],
+    "description": "endothelial protection nitric oxide signaling reduces vascular oxidative stress",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "174",
+    "phytoCode": "Circulatory Flow Optimization Module",
+    "name": "Stream",
+    "axes": [
+      "AXIS_6",
+      "AXIS_10",
+      "AXIS_20"
+    ],
+    "description": "Increases cerebral circulation, reduces thrombosis risk, and improves oxygen delivery.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "176",
+    "phytoCode": "Osteogenic Mineral Support Module",
+    "name": "Redcal",
+    "axes": [
+      "AXIS_22",
+      "AXIS_24"
+    ],
+    "description": "Osteoblast activation increases bone mineral density and decreases bone resorption.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "177",
+    "phytoCode": "Immune Priming Module",
+    "name": "IM-1 Betaglucan",
+    "axes": [
+      "AXIS_4",
+      "AXIS_19",
+      "AXIS_18"
+    ],
+    "description": "macrophage activation NK cell stimulation immune surveillance",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "178",
+    "phytoCode": "Renal Detoxification Module",
+    "name": "KD",
+    "axes": [
+      "AXIS_12",
+      "AXIS_1",
+      "AXIS_5"
+    ],
+    "description": "Increases renal filtration, reduces kidney inflammation, and prevents nephrotoxicity.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "180",
+    "phytoCode": "Digestive Enzyme Balance Module",
+    "name": "Sinaza",
+    "axes": [
+      "AXIS_15",
+      "AXIS_16",
+      "AXIS_5"
+    ],
+    "description": "Increase digestive enzyme secretion, reduce gut inflammation, and improve gut motility.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "181",
+    "phytoCode": "Tangchou Plus Sanchi Module",
+    "name": "TANGCHOU PLUS SANCHI",
+    "axes": [],
+    "description": "Increases cerebral blood flow, decreases platelet aggregation, stimulates mitochondrial ATP, and reduces oxidative stress in the brain.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "182",
+    "phytoCode": "Variz Venous Circulation Module",
+    "name": "VARIZ",
+    "axes": [],
+    "description": "Increases venous tone, reduces capillary leakage, and stimulates lymph drainage.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "183",
+    "phytoCode": "EDH Liver Detox Module",
+    "name": "EDH",
+    "axes": [],
+    "description": "Increase glutathione, reduce hepatic inflammation, and prevent fatty liver disease.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "184",
+    "phytoCode": "Stream Cardiovascular Protection Module",
+    "name": "STREAM PLUS",
+    "axes": [
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_16",
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_37",
+      "AXIS_38"
+    ],
+    "description": "Increases coronary circulation, decreases LDL oxidation, and reduces vascular inflammation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "185",
+    "phytoCode": "VitaCel Cellular Energy Module",
+    "name": "VITACEL",
+    "axes": [],
+    "description": "Increases mitochondrial respiration, increases ATP production, and reduces oxidative damage.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "186",
+    "phytoCode": "RedCal Bone Density Module",
+    "name": "REDCAL",
+    "axes": [
+      "AXIS_29"
+    ],
+    "description": "Stimulates osteoblasts, reduces bone resorption. Indications: osteoporosis, joint pain, fracture risk.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "187",
+    "phytoCode": "IM-1 Beta Glucan Immune Module",
+    "name": "IM-1",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_20",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36",
+      "AXIS_37",
+      "AXIS_38"
+    ],
+    "description": "Increases macrophage activity, stimulates NK cells, and improves cytokine balance.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "188",
+    "phytoCode": "KD Kidney Protection Module",
+    "name": "KD Kidney Protection Module",
+    "axes": [
+      "AXIS_35"
+    ],
+    "description": "Reduces renal inflammation and increases filtration efficiency.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "189",
+    "phytoCode": "Renax Renal Detox Module",
+    "name": "Renax Renal Detox Module",
+    "axes": [
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36",
+      "AXIS_37",
+      "AXIS_38"
+    ],
+    "description": "Increase urine flow, reduce toxin accumulation.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "190",
+    "phytoCode": "Sinaza Digestive Enzyme Module",
+    "name": "Sinaza Digestive Enzyme Module",
+    "axes": [
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_35"
+    ],
+    "description": "Increases enzymatic digestion, reduces bloating.",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "191",
+    "phytoCode": "TSPI-MOD-191",
+    "name": "ZAMINZYME",
+    "axes": [
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_19",
+      "AXIS_28",
+      "AXIS_29",
+      "AXIS_30",
+      "AXIS_31",
+      "AXIS_35"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "192",
+    "phytoCode": "TSPI-MOD-192",
+    "name": "STREAM X",
+    "axes": [
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_16",
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_37",
+      "AXIS_38"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "193",
+    "phytoCode": "TSPI-MOD-193",
+    "name": "IM 9",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_15",
+      "AXIS_16",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_22",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "194",
+    "phytoCode": "TSPI-MOD-194",
+    "name": "BETA 1",
+    "axes": [
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "195",
+    "phytoCode": "TSPI-MOD-195",
+    "name": "IM-7",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "196",
+    "phytoCode": "TSPI-MOD-196",
+    "name": "RIZZO",
+    "axes": [
+      "AXIS_12",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "197",
+    "phytoCode": "TSPI-MOD-197",
+    "name": "BETA 5",
+    "axes": [
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "198",
+    "phytoCode": "TSPI-MOD-198",
+    "name": "RIZZ",
+    "axes": [
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "199",
+    "phytoCode": "TSPI-MOD-199",
+    "name": "CURMINA",
+    "axes": [
+      "AXIS_35"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "200",
+    "phytoCode": "TSPI-MOD-200",
+    "name": "BETA G",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36",
+      "AXIS_38"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "201",
+    "phytoCode": "TSPI-MOD-201",
+    "name": "LANA",
+    "axes": [
+      "AXIS_31",
+      "AXIS_33",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "202",
+    "phytoCode": "TSPI-MOD-202",
+    "name": "IM 6",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_15",
+      "AXIS_18",
+      "AXIS_20",
+      "AXIS_21",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_33",
+      "AXIS_35",
+      "AXIS_36",
+      "AXIS_37"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "203",
+    "phytoCode": "TSPI-MOD-203",
+    "name": "HEPA 3",
+    "axes": [
+      "AXIS_15",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "204",
+    "phytoCode": "TSPI-MOD-204",
+    "name": "SANGVICHAI",
+    "axes": [
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_22",
+      "AXIS_23",
+      "AXIS_33",
+      "AXIS_34",
+      "AXIS_35",
+      "AXIS_37",
+      "AXIS_38"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "205",
+    "phytoCode": "TSPI-MOD-205",
+    "name": "LIVOXY PLUS",
+    "axes": [
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "206",
+    "phytoCode": "TSPI-MOD-206",
+    "name": "BONAX",
+    "axes": [
+      "AXIS_29",
+      "AXIS_37"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "207",
+    "phytoCode": "TSPI-MOD-207",
+    "name": "BETA L",
+    "axes": [
+      "AXIS_1",
+      "AXIS_36",
+      "AXIS_37"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "208",
+    "phytoCode": "TSPI-MOD-208",
+    "name": "BRANARIS",
+    "axes": [
+      "AXIS_38",
+      "AXIS_37"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "209",
+    "phytoCode": "TSPI-MOD-209",
+    "name": "PSYLAZA",
+    "axes": [
+      "AXIS_33",
+      "AXIS_34",
+      "AXIS_35",
+      "AXIS_37",
+      "AXIS_38",
+      "AXIS_39"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "210",
+    "phytoCode": "TSPI-MOD-210",
+    "name": "URANA 2",
+    "axes": [
+      "AXIS_15",
+      "AXIS_35",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "211",
+    "phytoCode": "TSPI-MOD-211",
+    "name": "LYPHOLAX",
+    "axes": [
+      "AXIS_15",
+      "AXIS_35",
+      "AXIS_36",
+      "AXIS_17",
+      "AXIS_19",
+      "AXIS_39"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "212",
+    "phytoCode": "TSPI-MOD-212",
+    "name": "KERRIX PLUS",
+    "axes": [
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "213",
+    "phytoCode": "TSPI-MOD-213",
+    "name": "KERRINA REFRESHING MOUTH SPRAY",
+    "axes": [],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "214",
+    "phytoCode": "TSPI-MOD-214",
+    "name": "B-FRESH MINERAL SOAP BAR",
+    "axes": [],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "215",
+    "phytoCode": "TSPI-MOD-215",
+    "name": "ORYGIS PD HERB MOISTURIZER OIL",
+    "axes": [],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "216",
+    "phytoCode": "TSPI-MOD-216",
+    "name": "BETA M",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_9",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36",
+      "AXIS_38"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "217",
+    "phytoCode": "TSPI-MOD-217",
+    "name": "UMX",
+    "axes": [
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "id": "218",
+    "phytoCode": "TSPI-MOD-218",
+    "name": "IM9",
+    "axes": [
+      "AXIS_1",
+      "AXIS_2",
+      "AXIS_3",
+      "AXIS_4",
+      "AXIS_5",
+      "AXIS_6",
+      "AXIS_7",
+      "AXIS_8",
+      "AXIS_9",
+      "AXIS_10",
+      "AXIS_11",
+      "AXIS_12",
+      "AXIS_13",
+      "AXIS_14",
+      "AXIS_15",
+      "AXIS_16",
+      "AXIS_17",
+      "AXIS_18",
+      "AXIS_22",
+      "AXIS_24",
+      "AXIS_25",
+      "AXIS_26",
+      "AXIS_27",
+      "AXIS_36"
+    ],
+    "description": "",
+    "dosage": "",
+    "safety": "",
+    "ic50_data": "",
+    "category": "",
+    "tags": []
+  }
+]
