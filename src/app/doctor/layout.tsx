@@ -1,8 +1,10 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import Link from "next/link";
+import { auth } from "@/utils/firebase/client";
+import { signOut } from "firebase/auth";
 import {
   LayoutDashboard, Users, Calendar, MessageSquare,
   Activity, Brain, History, Layers, FlaskConical,
@@ -16,6 +18,7 @@ import "./theme-inapp.css";
 
 export default function DoctorLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
+  const router = useRouter();
   const [collapsed, setCollapsed] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [isClient, setIsClient] = useState(false);
@@ -23,6 +26,15 @@ export default function DoctorLayout({ children }: { children: React.ReactNode }
   useEffect(() => {
     setIsClient(true);
   }, []);
+
+  const handleLogout = async () => {
+    try {
+      await signOut(auth);
+      router.push("/");
+    } catch (error) {
+      console.error("Error signing out:", error);
+    }
+  };
 
   const navGroups = [
     {
@@ -157,7 +169,11 @@ export default function DoctorLayout({ children }: { children: React.ReactNode }
                   <div style={{ fontWeight: 500, fontSize: '14px', color: '#1F2937' }}>Dr. Phat Jitdee</div>
                   <div style={{ fontSize: '11px', color: '#059669' }}>Verified Physician</div>
                 </div>
-                <button style={{ background: 'transparent', border: 'none', cursor: 'pointer', color: '#9CA3AF' }}>
+                <button 
+                  onClick={handleLogout}
+                  style={{ background: 'transparent', border: 'none', cursor: 'pointer', color: '#9CA3AF' }}
+                  title="ออกจากระบบ"
+                >
                   <LogOut size={16} />
                 </button>
               </>

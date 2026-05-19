@@ -44,11 +44,7 @@ export default function Sidebar({ role = "doctor", userName = "คุณหม�
   const handleLogout = async () => {
     try {
       await signOut(auth);
-      if (role === "patient") {
-        router.push("/patient/login");
-      } else {
-        router.push("/doctor/login");
-      }
+      router.push("/");
     } catch (error) {
       console.error("Error signing out:", error);
     }

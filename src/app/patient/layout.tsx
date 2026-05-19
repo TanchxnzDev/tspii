@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Sidebar from "@/components/dashboard/Sidebar";
 import { Menu, X, Bell, User, Shield } from "lucide-react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { auth } from "@/utils/firebase/client";
 import { onAuthStateChanged } from "firebase/auth";
 
@@ -14,6 +14,7 @@ export default function PatientLayout({
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
+  const router = useRouter();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [user, setUser] = useState<any>(null);
 
@@ -22,9 +23,12 @@ export default function PatientLayout({
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (firebaseUser) => {
       setUser(firebaseUser);
+      if (!firebaseUser && !isAuthPage) {
+        router.push("/");
+      }
     });
     return () => unsubscribe();
-  }, []);
+  }, [isAuthPage, router]);
 
   // Hide sidebar and header for non-authenticated pages or explicitly on login/register
   const showBars = !isAuthPage && user;
